@@ -50,7 +50,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Course name"
+      logoText = "MUS 109  Musicianship"
       logoHomeLink = "/"
 
     [languages.en.menu]
