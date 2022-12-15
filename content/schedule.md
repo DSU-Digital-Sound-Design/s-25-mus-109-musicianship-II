@@ -15,8 +15,11 @@ author: ""
 - Moylan Chapter 4
   - Why Audio Professionals Need to Evaluate Sound
   - Talking About Sound
+- `Quiz 0`
 
-> Quiz 0
+> Homework
+>
+> - `Read` Corey Introduction and Chapter 1
 
 <!-- ## Thursday
 
