@@ -11,11 +11,11 @@ author: ""
 ## Tuesday
 
 - Syllabus
-- [0-introduction](x-devonthink-item://E1A92925-6551-4A26-BB32-F989DD12F7EA)
-- Moylan Chapter 4
-  - Why Audio Professionals Need to Evaluate Sound
-  - Talking About Sound
-- `Quiz 0`
+- [How do we evaluate and talk about sound?](../lectures/week-1/4-moylan/)
+- [Corey introduction](../lectures/week-1/0-corey/)
+- `Quiz 0` - 1 octave, 1 band, + 12 dB, sound file, freq 500 to 2000 Hz
+  - ISO octaves - 63, 125, 250, 500, 1000, 2000, 4000, 8000, and 16000 Hz
+  - Click [here](../lectures/week-1/quiz-0-answers/) to check your answers after the prelim quiz is over.
 
 > Homework
 >
