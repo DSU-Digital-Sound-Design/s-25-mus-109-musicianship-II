@@ -35,7 +35,7 @@ What we have is a collection of impressive terms that associate perceptions and 
 
 > What are some of the ways you've heard of for speaking about sound like this? Ie crispy, dark, bright etc. What are some issues with these terms?
 
-Some obvious issues with the above terms ist hat they mean different things to different people, they're subjective, not objective.
+Some obvious issues with the above terms is that they mean different things to different people, they're subjective, not objective.
 
 Even describing something as sounding like a specific instrument can be fraught with issues depending on the person's history with that instrument.
 
