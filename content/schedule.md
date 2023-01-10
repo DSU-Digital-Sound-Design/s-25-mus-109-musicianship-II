@@ -22,14 +22,16 @@ author: ""
 >
 > `Read` Corey Introduction and Chapter 1
 
-<!-- ## Thursday
+## Thursday
 
-- [1-listening](x-devonthink-item://F4B92F1A-E5D6-45DF-80D2-038CEB22DFBE)
-- Moylan Chapter 4
-	- The Listening Process
-	- Critical Listening vs. Analytical Listening
-	- The Sound Event and Sound Object
-	- The Sound Event and Sound Object
+- 10 minutes of quiz 0
+  - Show the EQ and give a brief demo for those who need it.
+- [Corey, Chapter 1: Listening](../lectures/week-1/1-corey/) - including name that microphone and name that tune.
+
+<!-- - Moylan Chapter 4
+  - The Listening Process
+  - Critical Listening vs. Analytical Listening
+  - The Sound Event and Sound Object
 - Environmental listening exercise - from Corey
 - listen to all the sounds around you and think about their
   - Timbre
@@ -37,8 +39,9 @@ author: ""
   - amplitude envelopes (transient vs. sustained)
   - locations - angle and proximity
   - echos and reverberation, different locations around the room? Slap echos?
-- Variations from Schafer: [Schafer_R_Murray_A_Sound_Education_100_Exercises_in_Listening_and_Soundmaking](x-devonthink-item://C886015C-4713-4C28-A967-07920C28B6E5)
+- Variations from Schafer: [Schafer_R_Murray_A_Sound_Education_100_Exercises_in_Listening_and_Soundmaking](x-devonthink-item://C886015C-4713-4C28-A967-07920C28B6E5) -->
 
+<!--
 # Week 2 (1/16)
 
 ## Tuesday
