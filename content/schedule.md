@@ -19,7 +19,7 @@ author: ""
 
 > Homework
 >
-> - `Read` Corey Introduction and Chapter 1
+> `Read` Corey Introduction and Chapter 1
 
 <!-- ## Thursday
 
