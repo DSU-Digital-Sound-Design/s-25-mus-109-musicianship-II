@@ -114,11 +114,3 @@ Timbre can be the most important aspect of a recording.
 Can you think of a record where timbre plays a more important aspect than the musical content?
 
 {{%/ note %}}
-
----
-
-> Timbre has become such an important factor in recorded music that it can be used to identify a song before musical tonality or melody can have time to develop sufficiently. In their article titled “Name That Tune: Identifying Popular Recordings from Brief Excerpts,” Schellenberg et al. (1999) found that listeners could correctly identify pieces of music when presented with excerpts of only a tenth of a second in length.
-
----
-
-> Play "name that tune" with this 80s and 90s playlist: https://open.spotify.com/playlist/6FebOEiQTeHFdRZvlVaNm3
