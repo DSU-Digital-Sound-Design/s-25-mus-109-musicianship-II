@@ -28,42 +28,18 @@ author: ""
   - Show the EQ and give a brief demo for those who need it.
 - [Corey, Chapter 1: Listening](../lectures/week-1/1-corey/) - including name that microphone and name that tune.
 
-<!-- - Moylan Chapter 4
-  - The Listening Process
-  - Critical Listening vs. Analytical Listening
-  - The Sound Event and Sound Object
-- Environmental listening exercise - from Corey
-- listen to all the sounds around you and think about their
-  - Timbre
-  - Rhythmic or other time-based patterns
-  - amplitude envelopes (transient vs. sustained)
-  - locations - angle and proximity
-  - echos and reverberation, different locations around the room? Slap echos?
-- Variations from Schafer: [Schafer_R_Murray_A_Sound_Education_100_Exercises_in_Listening_and_Soundmaking](x-devonthink-item://C886015C-4713-4C28-A967-07920C28B6E5) -->
-
-<!--
 # Week 2 (1/16)
 
 ## Tuesday
 
-
-> Timbre has become such an important factor in recorded music that it can be used to identify a song before musical tonality or melody can have time to develop sufficiently. In their article titled “Name That Tune: Identifying Popular Recordings from Brief Excerpts,” Schellenberg et al. (1999) found that listeners could correctly identify pieces of music when presented with excerpts of only a tenth of a second in length.
-
----
-
-> Play "name that tune" with this 80s and 90s playlist: https://open.spotify.com/playlist/6FebOEiQTeHFdRZvlVaNm3
-
-
-- Moylan Chapter 4
-	- Multidimensional Listening Skills
-	- Distractions
-	- Sucess and Improvement
-	- Discovering Sound
-- [2-spectral-balance-and-equalization](x-devonthink-item://370ACD6F-7A8B-484F-90CB-206CD6B18127)
+- Play "name that tune" with Song Pop Party. The faster you answer, the more you're using timbre to figure it out rather than melody.
+- 5-10 minutes of practice with Tribe drum loop.
+- [Spectral Balance and Equalization](../lectures/week-2/2-corey/)
   - Shaping Spectral Balance
   - Types of Filters and
   - Getting Started with Practice
 
+<!--
 ## Thursday
 
 - Moylan Chapter 5 - Fundamental Listening Skills
@@ -72,7 +48,7 @@ author: ""
 	- Self-Discovery and Realization: "What is sound to You?"
 - [2-spectral-balance-and-equalization](x-devonthink-item://370ACD6F-7A8B-484F-90CB-206CD6B18127)
   - Working with the EQ Practice Module
-  - Quiz 1 practice
+  - Quiz 1 practice - first real quiz will be Monday
     - switching between affected and unaffected sound
     - ask students to identify the frequency they think has been altered
     - after the correct identification, request comments and discussion about the sound qualities heard.
