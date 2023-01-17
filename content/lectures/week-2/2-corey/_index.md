@@ -150,3 +150,38 @@ Filters: Low-Pass and High-Pass
 - Sound Source
   - file or pink noise
 - Keyboard shortcuts
+
+---
+
+## Working with the EQ Practice Module
+
+- start with pink noise
+- set the selection to "your response" and scroll through the frequency options to get them in your ear
+- after listening to this for a while try it with a sound file
+- note down effected instruments in the loop
+
+---
+
+## Vowel method
+
+- 250 Hz = [u] as in boot
+- 500 Hz = [o] as in tow
+- 1000 Hz = [a] as in father
+- 2000 Hz = [e] as in bet
+- 4000 Hz = [i] as in beet
+
+---
+
+## Recommended recordings
+
+- Anderson, Arild. (2004). “Straight” from The Triangle. ECM Records. (jazz piano trio)
+- Blanchard, Terence. (2001). “On the Sunny Side of the Street” from Let’s Get Lost. Sony. (jazz with vocals)
+- Earth, Wind & Fire. (1998). “September” from Greatest Hits. Sony. (R&B pop)
+- Hellendaal, Pieter. (1991). “Concerto II—Presto” from 6 Concerti Grossi. Perf. The European Community Baroque Orchestra. Channel Classics. (Baroque orchestra)
+
+---
+
+- Le Concert des Nations. (2002). “Marche pour la céré- monie” from Soundtrack from the film Tous les matins du monde. Alia Vox Spain. (Baroque orchestra)
+- Randall, Jon. (2005). Walking Among the Living. Epic/ Sony BMG Music Entertainment. (roots music/bluegrass)
+- Steely Dan. (2000). “Gaslighting Abbie” from Two Against Nature. Giant Records. (pop)
+  The Police. (1983). “Every Breath You Take” from Syn- chronicity. A&M Records. (rock)

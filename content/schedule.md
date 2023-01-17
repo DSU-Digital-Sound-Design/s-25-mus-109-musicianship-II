@@ -39,21 +39,17 @@ author: ""
   - Types of Filters and
   - Getting Started with Practice
 
-<!--
 ## Thursday
 
-- Moylan Chapter 5 - Fundamental Listening Skills
-	- Introduction
-	- Background Knowledge and Preparation
-	- Self-Discovery and Realization: "What is sound to You?"
-- [2-spectral-balance-and-equalization](x-devonthink-item://370ACD6F-7A8B-484F-90CB-206CD6B18127)
+- Moylan Chapter 5 - [Fundamental Listening Skills](../lectures/week-2/5-moylan/)
+- Finish [Spectral Balance and Equalization](../lectures/week-2/2-corey/)
   - Working with the EQ Practice Module
   - Quiz 1 practice - first real quiz will be Monday
-    - switching between affected and unaffected sound
-    - ask students to identify the frequency they think has been altered
-    - after the correct identification, request comments and discussion about the sound qualities heard.
-    - students are encouraged to note the attributes of frequency alterations for each piece of music we review in class and that they listen to on their own. This will help the student remember the sounds in what frequency ranges.
+    - 1 octave, 1 band, + 12 dB, pink noise and [sound file](../lectures/week-2/kick-it.m4a) (the "can I kick it" loop), freq 500 to 2000 Hz
   - Practice singing vowel sounds as a class!
+  - practice with other music from that Corey list?
+
+<!--
 
 # Week 3 (1/23)
 
