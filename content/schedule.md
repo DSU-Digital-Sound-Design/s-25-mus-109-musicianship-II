@@ -44,7 +44,7 @@ author: ""
 - Moylan Chapter 5 - [Fundamental Listening Skills](../lectures/week-2/5-moylan/)
 - Finish [Spectral Balance and Equalization](../lectures/week-2/2-corey/)
   - Working with the EQ Practice Module
-  - Quiz 1 practice - first real quiz will be Monday
+  - Quiz 1 practice - first real quiz will be Tuesday
     - 1 octave, 1 band, + 12 dB, pink noise and [sound file](../lectures/week-2/kick-it.m4a) (the "can I kick it" loop), freq 500 to 2000 Hz
   - Practice singing vowel sounds as a class!
   - practice with other music from that Corey list?
