@@ -49,44 +49,43 @@ author: ""
   - Practice singing vowel sounds as a class!
   - practice with other music from that Corey list?
 
-<!--
-
 # Week 3 (1/23)
 
 ## Tuesday
 
-- Moylan Chapter 5 - Fundamental Listening Skills
-	- Beginning to Hear the Relationships and Qualities of the Mix
-- Chapter 7 - [Analysis of sound](x-devonthink-item://997F669F-01C6-439A-8876-9614209815B4?page=138)
-  - We'll base class presentations on these. They will, of course, get better and more informed over the course of the semester.
-  - Overall bandwidth
-  - Spectral balance
-  - auditory image
-  - spatial impression
-  - dynamic range
-  - noise and distortion
-  - the balance of the components
-
-
 > Quiz 1
+
+- [Headphones Buying Guide](https://www.sweetwater.com/insync/headphones-buying-guide/)
+  - Open back - best for mixing and critical listening - not good for recording in the studio
+  - Closed back - good for recording in the studio
+  - A mix between the two: [AKG K240 Studio Semi-open Pro Studio Headphones | Sweetwater](https://www.sweetwater.com/store/detail/K240S--akg-k240-studio-semi-open-pro-studio-headphones)
+- Chapter 7 - [Analysis of sound](../lectures/week-3/7-corey/)
 
 ## Thursday
 
+- name that tune - 10 minutes
+- Quiz 2 practice - 10 minutes
+- Finish - Chapter 7 - [Analysis of sound](../lectures/week-3/7-corey/) - 20 minutes
 - 7.2 Analysis Examples
-  - Sheryl Crow\: “Strong Enough” 143
+  - Sheryl Crow\: “Strong Enough”
+
+<!-- TODO: Download and make tracks available for students to listen to -->
+
+> Homework: Read section 7.2 from the Corey and listen to the tracks Corey analyses.
+
+<!--
+# Week 4 (1/30)
+
+## Tuesday
+
   - Peter Gabriel\: “In Your Eyes” 144
   - Lyle Lovett\: “Church” 145
   - Sarah McLachlan\: “Lost” 147
   - Jon Randall\: “In the Country” 148
 - 7.3 GraphicalAnalysisofsound
 - Start working on your weekly journals based on what we've seen from the book and 5 paragraphs on the previous production parameters. Be prepared to present and discuss your journal for any class for 30 minutes. You will end up with 10 journal entries. No more than 3 entries may be from the same decade. These papers should also include sound pictures related to - Quiz 2 practice
-
-# Week 4 (1/30)
-
-## Tuesday
-
-- Student journal presentation 1 and discussion
 - Teacher lead presentation: Anderson, Arild. \(2004\). “Straight” from _The Triangle_. ECM Records. \(jazz piano trio\)
+- Or PeterGabriel:“inyourEyes” using the Corey analysis as an example
 
 > Quiz 2
 
@@ -95,9 +94,8 @@ author: ""
 - Quiz 3 practice
 - Shafer - Exercises 1, 2, 3
 - Moylan: 6 A System for Evaluating Sound
-	- System Overview
-	- Sound-Evaluation Sequence
-
+  - System Overview
+  - Sound-Evaluation Sequence
 
 # Week 5 (2/6)
 
@@ -111,7 +109,7 @@ author: ""
 ## Thursday
 
 - Moylan: 6 A System for Evaluating Sound
-	- Graphing the States of Activity of Sound Components
+  - Graphing the States of Activity of Sound Components
 - Shafer - Exercises 4, 5
 - Quiz 4 practice
 
@@ -127,7 +125,7 @@ author: ""
 ## Thursday
 
 - Moylan: 6 A System for Evaluating Sound
-	- Plotting Sources Against a Timeline
+  - Plotting Sources Against a Timeline
 - Shafer - Exercises 6, 7, 8, 10, 11, 13
 - Quiz 5 Practice
 
