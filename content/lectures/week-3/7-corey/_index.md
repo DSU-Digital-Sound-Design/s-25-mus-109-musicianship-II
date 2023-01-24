@@ -54,7 +54,7 @@ Sound mixing at it's most basic level involves gain or level variation over time
 
 Analysis characteristics
 
-- European Broadcasting Union Technical Document 3286 titled “Assessment Methods for the Subjective Evaluation of the Quality of Sound Programme Material— Music”:
+- [European Broadcasting Union Technical Document 3286](https://tech.ebu.ch/docs/tech/tech3286.pdf) titled “Assessment Methods for the Subjective Evaluation of the Quality of Sound Programme Material— Music”:
   - Overall bandwidth
   - Spectral balance
   - Auditory image
