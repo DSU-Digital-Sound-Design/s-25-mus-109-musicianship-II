@@ -74,6 +74,9 @@ Analysis characteristics
 FM radio extends only up to about 15kHz and the bandwidth of standard telephone communication ranges from about 300 to 3000 Hz. A record- ing may be limited by its recording medium, a sound system can be limited by its electronic components, and a digital signal may be down-sampled to a narrower bandwidth to save data transmission. The effect of narrowing a bandwidth can be heard through the use of high- and low- pass filters.
 
 In making a judgment about high frequency extension, the highest overtones present in recording need to be considered. **The highest fundamental pitches in music do not go much above about 4000 Hz, but overtones from cymbals and brass instruments easily reach 20,000 Hz.** An engineer’s choice of recording equipment or filters may intentionally reduce the bandwidth of a sound, which differentiates the bandwidth of the acoustic and recorded sound of an instrument.
+
+> Demo this in Reaper
+
 {{%/ note %}}
 
 ---
