@@ -121,14 +121,89 @@ In the study of music production and mixing techniques, a number of conventions 
 
 ## Spatial impression, reverberation, and time-based effects
 
+- Apparent room size:
+  - How big is the room?
+  - Is there more than one type of reverberation present in a recording?
+  - Is the reverberation real or artificial?
+  - What is the approximate reverberation time?
+  - Are there any echoes or long delays in the reverberation and early reflections?
+- Depth perspective: Are sounds placed up front clearly distinguished from those in the background?
+
+{{% note %}}
+The spatial impression of a recording is critical for conveying emotion and drama in music. Reverberation and echo help set the scene in which a musical performance or theatrical action takes place. Listeners can be transported mentally to the space in which music exists through the strong influence of early reflections and reverberation that envelops music in a sound recording.
+
+Show some examples of different spaces in Reaper using \* [OpenAIR – Open Air Library](https://www.openairlib.net/)
+{{%/ note %}}
+
+---
+
+- What is the spectral balance of the reverberation?
+- What is the direct/reverberant ratio?
+- Are there any strong echoes or delays?
+- Is there any apparent time-based effect such as chorus or flanging?
+
+---
+
+## Concert Hall Acoustics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mDCJLbz61fU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+{{% note %}}
+Classical music recordings can give listeners the opportunity to familiarize themselves with reverberation from a real acoustic space. Often orchestras and artists with higher recording budgets will record in concert halls and churches with acoustics that are deemed to be very conducive to music performance. The depth and sense of space that can be created with appropriate pickup of a real acoustic space are generally difficult to mimic with artificial reverberation.
+{{%/ note %}}
+
 ---
 
 ## Dynamic range, changes in level
+
+- Some styles have drastic dynamic ranges and changes in level
+  - classical music even has names for ranges such as pianissimo, forte, etc
+  - pop and rock music has more subtle dynamic level changes that we can see on a meter
+- listen for changes in level of individual instruments and of an overall stereo mix.
+
+{{% note %}}
+Demo this with automation curves in Reaper.
+
+Also show LUFS view in Reaper.
+{{%/ note %}}
+
+---
+
+## Dynamics in classical music
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nkx_42h1ngI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
 ## Noise and distortion
 
+- 50 or 60Hz buzz or hum,
+- low-frequency thumps from a microphone or stand being bumped,
+- external noises such as car horns or airplanes,
+- clicks and pops from inaccurate digital synchronization, and
+- drop- outs (very short periods of silence) resulting from defective recording media.
+
+---
+
+## Hum examples
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pMtn-loUrg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ---
 
 ## Balance of elements within a mix
+
+- Think about questions such as the following:
+  - Are the amplitude levels of the instruments balanced appropriately for the style of music?
+  - Is there an instrument that is too loud or another that is too quiet?
+
+---
+
+- Some of these subfeatures might include the following:
+  - Specific features of each component, musical voice, or instrument such as the temporal nature or spatial location of amplitude envelope components (e.g., attack, decay, sustain, and release)
+  - Definition and clarity of elements within a sound image
+  - Width and spatial extent of individual elements
+
+{{% note %}}
+Show an example from the Riff Raff mix of different ways of balancing components in a mix.
+{{%/ note %}}

@@ -65,29 +65,34 @@ author: ""
 
 - name that tune - 10 minutes
 - Quiz 2 practice - 10 minutes
+  - **1 octave, 1 band, - 12 dB, pink noise, sound file, freq 500 to 2000 Hz**
+  - Use Matching practice
+    - Practice with pink noise and set a timer for 3 minutes, then take a 2 minute break
+    - repeat several times each day
+    - do the same with the recording
+  - After you're comfortable with matching, move onto matching memory, then absolute ID
 - Finish - Chapter 7 - [Analysis of sound](../lectures/week-3/7-corey/) - 20 minutes
 - 7.2 Analysis Examples
   - Sheryl Crow\: “Strong Enough”
+  - We'll listen to it in class, then read the analysis and talk more about it next week
 
 <!-- TODO: Download and make tracks available for students to listen to -->
 
-> Homework: Read section 7.2 from the Corey and listen to the tracks Corey analyses.
+> Homework: Read 7.2.1 Sheryl Crow: “Strong Enough” from the Corey and listen to the tracks Corey analyses. Be able to talk about your own impressions during next class.
+> Download the song [here](https://dakotastateuniversity-my.sharepoint.com/:u:/g/personal/tate_carson_dsu_edu/EYKzTsH0yZpAqSV6lweIGuEBLYJscKO9u-MGt7F7VXdzrQ?e=pzaDxe).
 
 <!--
 # Week 4 (1/30)
 
 ## Tuesday
 
-  - Peter Gabriel\: “In Your Eyes” 144
-  - Lyle Lovett\: “Church” 145
-  - Sarah McLachlan\: “Lost” 147
-  - Jon Randall\: “In the Country” 148
-- 7.3 GraphicalAnalysisofsound
-- Start working on your weekly journals based on what we've seen from the book and 5 paragraphs on the previous production parameters. Be prepared to present and discuss your journal for any class for 30 minutes. You will end up with 10 journal entries. No more than 3 entries may be from the same decade. These papers should also include sound pictures related to - Quiz 2 practice
-- Teacher lead presentation: Anderson, Arild. \(2004\). “Straight” from _The Triangle_. ECM Records. \(jazz piano trio\)
-- Or PeterGabriel:“inyourEyes” using the Corey analysis as an example
-
 > Quiz 2
+
+- discuss 7.2.1 Sheryl Crow: “Strong Enough”
+- pick a song from the audience to do an analysis on in class
+- Introduce journals
+  - Start working on your weekly journals based on what we've seen from the book and 5 paragraphs on the previous production parameters. Be prepared to present and discuss your journal for any class for 30 minutes. You will end up with 10 journal entries. No more than 3 entries may be from the same decade. These papers should also include sound pictures related to - Quiz 2 practice
+
 
 ## Thursday
 
@@ -101,6 +106,14 @@ author: ""
 
 ## Tuesday
 
+- Teacher lead presentation: Anderson, Arild. \(2004\). “Straight” from _The Triangle_. ECM Records. \(jazz piano trio\)
+- Or PeterGabriel:“inyourEyes” using the Corey analysis as an example
+
+  - Peter Gabriel\: “In Your Eyes” 144
+  - Lyle Lovett\: “Church” 145
+  - Sarah McLachlan\: “Lost” 147
+  - Jon Randall\: “In the Country” 148
+- 7.3 GraphicalAnalysisofsound
 - Teacher lead presentation: Blanchard, Terence. \(2001\). “On the Sunny Side of the Street” from _Let’s Get Lost_. Sony. \(jazz with vocals\)
 - Other presentation options from [The Mix Review - Reviews](https://themixreview.org/reviews/)- Student journal presentation 2 and discussion
 
