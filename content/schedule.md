@@ -81,18 +81,20 @@ author: ""
 > Homework: Read 7.2.1 Sheryl Crow: “Strong Enough” from the Corey and listen to the tracks Corey analyses. Be able to talk about your own impressions during next class.
 > Download the song [here](https://dakotastateuniversity-my.sharepoint.com/:u:/g/personal/tate_carson_dsu_edu/EYKzTsH0yZpAqSV6lweIGuEBLYJscKO9u-MGt7F7VXdzrQ?e=pzaDxe).
 
-<!--
 # Week 4 (1/30)
 
 ## Tuesday
 
 > Quiz 2
 
-- discuss 7.2.1 Sheryl Crow: “Strong Enough”
-- pick a song from the audience to do an analysis on in class
-- Introduce journals
-  - Start working on your weekly journals based on what we've seen from the book and 5 paragraphs on the previous production parameters. Be prepared to present and discuss your journal for any class for 30 minutes. You will end up with 10 journal entries. No more than 3 entries may be from the same decade. These papers should also include sound pictures related to - Quiz 2 practice
+- discuss [Sheryl Crow: “Strong Enough”](../lectures/week-4/crow-strong-enough/)
 
+> Sound Journals
+>
+> Start working on your weekly journals based on what we've seen from the book and 5 paragraphs on the previous production parameters. Be prepared to present and discuss your journal for any class for 15-20 minutes. You will end up with 9 journal entries. No more than 3 entries may be from the same decade. These papers should also include sound pictures related to.
+> Think about what you might want to write about first and bring it in on Thursday
+
+<!--
 
 ## Thursday
 
