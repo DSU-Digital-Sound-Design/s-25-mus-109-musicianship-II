@@ -91,19 +91,30 @@ author: ""
 
 > Sound Journals
 >
-> Start working on your weekly journals based on what we've seen from the book and 5 paragraphs on the previous production parameters. Be prepared to present and discuss your journal for any class for 15-20 minutes. You will end up with 9 journal entries. No more than 3 entries may be from the same decade. These papers should also include sound pictures related to.
+> Start working on your weekly journals based on what we've seen from the book and 3 paragraphs on the previous production parameters. Be prepared to present and discuss your journal for any class for 15-20 minutes. You will end up with 9 journal entries. No more than 3 entries may be from the same decade. These papers should also include sound pictures related to.
 > Think about what you might want to write about first and bring it in on Thursday
-
-<!--
 
 ## Thursday
 
-- Quiz 3 practice
+- _Name that tune_ - 10 minutes
+- Finish _Strong Enough_ analysis - 20 minutes
+- Quiz 2 practice - we need to spend more time on this; let's practice as a class
+  - **1 octave, 1 band, -12 dB, pink noise, sound file, freq 500 to 2000 Hz**
+  - 30 minute practice routine
+    - 3 minutes, pink noise, matching; 2 minutes rest
+    - 3 minutes, sound file, matching; 2 minutes rest
+    - 3 minutes, pink noise, matching memory; 2 minutes rest
+    - 3 minutes, sound file, matching memory; 2 minutes rest
+    - 3 minutes, pink noise, absolute ID; 2 minutes rest
+    - 3 minutes, sound file, absolute ID; 2 minutes rest
+
+<!--
 - Shafer - Exercises 1, 2, 3
 - Moylan: 6 A System for Evaluating Sound
   - System Overview
-  - Sound-Evaluation Sequence
+  - Sound-Evaluation Sequence -->
 
+<!--
 # Week 5 (2/6)
 
 ## Tuesday
