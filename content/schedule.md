@@ -100,13 +100,18 @@ author: ""
 - Finish _Strong Enough_ analysis - 20 minutes
 - Quiz 2 practice - we need to spend more time on this; let's practice as a class
   - **1 octave, 1 band, -12 dB, pink noise, sound file, freq 500 to 2000 Hz**
-  - 30 minute practice routine
-    - 3 minutes, pink noise, matching; 2 minutes rest
-    - 3 minutes, sound file, matching; 2 minutes rest
-    - 3 minutes, pink noise, matching memory; 2 minutes rest
-    - 3 minutes, sound file, matching memory; 2 minutes rest
-    - 3 minutes, pink noise, absolute ID; 2 minutes rest
-    - 3 minutes, sound file, absolute ID; 2 minutes rest
+  - **pre-practice** - listen to each option and try to order them in your head. Think about how each cut sounds and what changes between them. After you ears get used to the changes you can now move onto the practice routine.
+  - **30 minute practice routine**
+    - 3 minutes, pink noise, matching
+    - 3 minutes, sound file, matching
+    - 3 minutes rest
+    - 3 minutes, pink noise, matching memory
+    - 3 minutes, sound file, matching memory
+    - 3 minutes rest
+    - 3 minutes, pink noise, absolute ID
+    - 3 minutes, sound file, absolute ID
+    - 6 minutes rest
+    - repeat as often as you can
 
 <!--
 - Shafer - Exercises 1, 2, 3
