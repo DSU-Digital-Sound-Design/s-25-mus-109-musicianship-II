@@ -89,11 +89,6 @@ author: ""
 
 - discuss [Sheryl Crow: “Strong Enough”](../lectures/week-4/crow-strong-enough/)
 
-> Sound Journals
->
-> Start working on your weekly journals based on what we've seen from the book and 3 paragraphs on the previous production parameters. Be prepared to present and discuss your journal for any class for 15-20 minutes. You will end up with 9 journal entries. No more than 3 entries may be from the same decade. These papers should also include sound pictures related to.
-> Think about what you might want to write about first and bring it in on Thursday
-
 ## Thursday
 
 - _Name that tune_ - 10 minutes
@@ -113,28 +108,30 @@ author: ""
     - 6 minutes rest
     - repeat as often as you can
 
-<!--
-- Shafer - Exercises 1, 2, 3
-- Moylan: 6 A System for Evaluating Sound
-  - System Overview
-  - Sound-Evaluation Sequence -->
-
-<!--
 # Week 5 (2/6)
 
 ## Tuesday
 
-- Teacher lead presentation: Anderson, Arild. \(2004\). “Straight” from _The Triangle_. ECM Records. \(jazz piano trio\)
-- Or PeterGabriel:“inyourEyes” using the Corey analysis as an example
+<!-- TODO: repost quiz 2 -->
 
-  - Peter Gabriel\: “In Your Eyes” 144
+> Quiz 2 retake
+
+- Peter Gabriel - In your eyes from Corey
+- Talk about Student presentations - [instructions](../assignments/journals/)
+
+<!-- - Teacher lead presentation: Anderson, Arild. \(2004\). “Straight” from _The Triangle_. ECM Records. \(jazz piano trio\) -->
+
+  <!-- - Peter Gabriel\: “In Your Eyes” 144
   - Lyle Lovett\: “Church” 145
   - Sarah McLachlan\: “Lost” 147
   - Jon Randall\: “In the Country” 148
-- 7.3 GraphicalAnalysisofsound
 - Teacher lead presentation: Blanchard, Terence. \(2001\). “On the Sunny Side of the Street” from _Let’s Get Lost_. Sony. \(jazz with vocals\)
 - Other presentation options from [The Mix Review - Reviews](https://themixreview.org/reviews/)- Student journal presentation 2 and discussion
+- 7.3 GraphicalAnalysisofsound 
 
+-->
+
+<!--
 > Quiz 3
 
 ## Thursday
