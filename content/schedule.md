@@ -112,12 +112,11 @@ author: ""
 
 ## Tuesday
 
-<!-- TODO: repost quiz 2 -->
-
 > Quiz 2 retake
 
-- Peter Gabriel - In your eyes from Corey
-- Talk about Student presentations - [instructions](../assignments/journals/)
+- [Peter Gabriel - In your eyes](../lectures/week-5/gabriel-in-your-eyes/) from Corey
+- First student presentations
+  - More instructions on journals/presentations - [instructions](../assignments/journals/)
 
 <!-- - Teacher lead presentation: Anderson, Arild. \(2004\). “Straight” from _The Triangle_. ECM Records. \(jazz piano trio\) -->
 
