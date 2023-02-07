@@ -114,46 +114,34 @@ author: ""
 
 > Quiz 2 retake
 
-- [Peter Gabriel - In your eyes](../lectures/week-5/gabriel-in-your-eyes/) from Corey
 - First student presentations
   - More instructions on journals/presentations - [instructions](../assignments/journals/)
 
-<!-- - Teacher lead presentation: Anderson, Arild. \(2004\). “Straight” from _The Triangle_. ECM Records. \(jazz piano trio\) -->
-
-  <!-- - Peter Gabriel\: “In Your Eyes” 144
-  - Lyle Lovett\: “Church” 145
-  - Sarah McLachlan\: “Lost” 147
-  - Jon Randall\: “In the Country” 148
-- Teacher lead presentation: Blanchard, Terence. \(2001\). “On the Sunny Side of the Street” from _Let’s Get Lost_. Sony. \(jazz with vocals\)
-- Other presentation options from [The Mix Review - Reviews](https://themixreview.org/reviews/)- Student journal presentation 2 and discussion
-- 7.3 GraphicalAnalysisofsound 
-
--->
-
-<!--
-> Quiz 3
-
 ## Thursday
 
+- Name that Tune!
+- [Peter Gabriel - In your eyes](../lectures/week-5/gabriel-in-your-eyes/) from Corey
 - Moylan: 6 A System for Evaluating Sound
-  - Graphing the States of Activity of Sound Components
-- Shafer - Exercises 4, 5
-- Quiz 4 practice
+  - Graphing the States of Activity of Sound Components - [slides](../lectures/week-5/moylan-6/)
+- Quiz 3 practice
+  - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 500 to 2000 Hz**
 
+<!--
 # Week 6 (2/13)
 
 ## Tuesday
 
-- Earth, Wind & Fire. \(1998\). “September” from _Greatest Hits_. Sony. \(R&B pop\)
-- Student journal presentation 3 and discussion
+- Student journal presentation  and discussion
 
-> Quiz 4
+> Quiz 3
 
 ## Thursday
 
+- name that tune
+- Earth, Wind & Fire. \(1998\). “September” from _Greatest Hits_. Sony. \(R&B pop\)
 - Moylan: 6 A System for Evaluating Sound
   - Plotting Sources Against a Timeline
-- Shafer - Exercises 6, 7, 8, 10, 11, 13
+
 - Quiz 5 Practice
 
 # Week 7 (2/20)
@@ -167,6 +155,7 @@ author: ""
 
 ## Thursday
 
+- keep going with moylan - there's more details about analysis in the following chapters
 - Shafer - Exercise 9?
 - Quiz 6 practice
 
