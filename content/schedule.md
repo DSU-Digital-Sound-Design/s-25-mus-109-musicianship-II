@@ -126,22 +126,29 @@ author: ""
 - Quiz 3 practice
   - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 500 to 2000 Hz**
 
-<!--
 # Week 6 (2/13)
 
 ## Tuesday
 
-- Student journal presentation  and discussion
-
 > Quiz 3
+
+- Quiz 4 in class practice
+  - What do you hear change in the recording?
+- Student journal presentation and discussion
+
+> Quiz 4: **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 500 to 4000 Hz**
+> New song - Strong Enough
 
 ## Thursday
 
 - name that tune
-- Earth, Wind & Fire. \(1998\). “September” from _Greatest Hits_. Sony. \(R&B pop\)
+- Quiz 4 in class practice
+  - What do you hear change in the recording?
+- Finish [Peter Gabriel - In your eyes](../lectures/week-5/gabriel-in-your-eyes/) from Corey
 - Moylan: 6 A System for Evaluating Sound
   - Plotting Sources Against a Timeline
 
+<!--
 - Quiz 5 Practice
 
 # Week 7 (2/20)
@@ -155,6 +162,7 @@ author: ""
 
 ## Thursday
 
+- Earth, Wind & Fire. \(1998\). “September” from _Greatest Hits_. Sony. \(R&B pop\)
 - keep going with moylan - there's more details about analysis in the following chapters
 - Shafer - Exercise 9?
 - Quiz 6 practice
