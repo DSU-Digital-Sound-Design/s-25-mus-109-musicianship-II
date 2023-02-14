@@ -121,8 +121,6 @@ author: ""
 
 - Name that Tune!
 - [Peter Gabriel - In your eyes](../lectures/week-5/gabriel-in-your-eyes/) from Corey
-- Moylan: 6 A System for Evaluating Sound
-  - Graphing the States of Activity of Sound Components - [slides](../lectures/week-5/moylan-6/)
 - Quiz 3 practice
   - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 500 to 2000 Hz**
 
@@ -141,12 +139,15 @@ author: ""
 
 ## Thursday
 
-- name that tune
-- Quiz 4 in class practice
+- name that tune - 10 min
+- Quiz 4 in class practice - 10 min
   - What do you hear change in the recording?
-- Finish [Peter Gabriel - In your eyes](../lectures/week-5/gabriel-in-your-eyes/) from Corey
-- Moylan: 6 A System for Evaluating Sound
-  - Plotting Sources Against a Timeline
+- Finish [Peter Gabriel - In your eyes](../lectures/week-6/gabriel-in-your-eyes/) from Corey
+- Moylan: 6 A System for Evaluating Sound - [Plotting Sources Against a Timeline](../lectures/week-6/moylan-6/)
+- Plotting instruments frequency content over time
+  - pick a small section and choose a few important instruments
+  - use band and bandpass filters in Reaper to find the frequency ranges.
+  - [my example](../lectures/week-6/moylan-6/InYourEyesAnalysis.drawio.png)
 
 <!--
 - Quiz 5 Practice

@@ -49,7 +49,7 @@ separator = "##"
 Time increments will be selected for the X-axis that are appropriate for the sound. Time increments will take one of two forms: (1) units based on the second (millisecond, tenths of seconds, groups of seconds, etc.), and (2) units based on the metric grid (individual or subdivisions of pulses, measures, or groups of measures).
 {{%/ note %}}
 
----
+<!-- ---
 
 ## Time units
 
@@ -57,7 +57,7 @@ Listen to [tracks 26–33](https://routledgetextbooks.com/textbooks/978041584281
 
 {{% note %}}
 If the sound material being evaluated is not in a musical context, increments based on the second must be used. It will be common to use increments based on the second in the evaluation of timbre relationships (including sound quality and environmental characteristics). Envisioning a pulse of MM:60 (or an integer or a multiple thereof) will provide some reference to the listener in making time judgments without a metric grid, but this activity may not always be appropriate. It may distort the listener’s perception of the material, and the reference may be unstable, as the listener’s attention will rightly be focused elsewhere.
-{{%/ note %}}
+{{%/ note %}} -->
 
 ---
 
@@ -69,6 +69,8 @@ If the sound material being evaluated is not in a musical context, increments ba
 
 - Open [diagrams.net](https://app.diagrams.net/?src=about)
 - [Shortcuts:](https://app.diagrams.net/shortcuts.svg)
+- everyone create a chart similar to Moylan's with an X/Y axis
+  - save if for later use
 
 {{% note %}}
 We'll keep refining this and going back to it through the semester. But for now let's at least learn how to create the basic template and edit it.
