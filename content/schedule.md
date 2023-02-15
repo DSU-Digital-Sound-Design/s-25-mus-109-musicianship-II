@@ -147,7 +147,9 @@ author: ""
 - Plotting instruments frequency content over time
   - pick a small section and choose a few important instruments
   - use band and bandpass filters in Reaper to find the frequency ranges.
+  - or view spectral peaks and add spectral edits to turn down the gains of small portions of the audio. Use this data to make your graphs more accurate.
   - [my example](../lectures/week-6/moylan-6/InYourEyesAnalysis.drawio.png)
+  - Follow along with me to make another graph for a different section of _In Your Eyes_
 
 <!--
 - Quiz 5 Practice
@@ -156,8 +158,8 @@ author: ""
 
 ## Tuesday
 
-- Hellendaal, Pieter. \(1991\). “Concerto II—Presto” from _6 Concerti Grossi_. Perf. The European Community Baroque Orchestra. Channel Classics. \(Baroque orchestra\)
 - Student journal presentation 4 and discussion
+  - Jake and ?
 
 > Quiz 5
 
