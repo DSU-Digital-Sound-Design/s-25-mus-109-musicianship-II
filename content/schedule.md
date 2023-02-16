@@ -140,6 +140,7 @@ author: ""
 ## Thursday
 
 - name that tune - 10 min
+- [ABIT: A Better Interval Timer on the App Store](https://apps.apple.com/us/app/abit-workout-app/id1274605002)
 - Quiz 4 in class practice - 10 min
   - What do you hear change in the recording?
 - Finish [Peter Gabriel - In your eyes](../lectures/week-6/gabriel-in-your-eyes/) from Corey
