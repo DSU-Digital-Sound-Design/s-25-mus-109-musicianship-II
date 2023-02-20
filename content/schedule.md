@@ -156,6 +156,9 @@ author: ""
 
 ## Tuesday
 
+- For future analysis make sure you're using catagories and definitions from this document
+  - [EBU Tech 3286-1997 Subjective evaluation of quality - Music programme - tech3286.pdf](https://tech.ebu.ch/docs/tech/tech3286.pdf)
+  - Late journals are accepted, but will have points taken off.
 - Student journal presentation 4 and discussion
   - Jake and another student
 
