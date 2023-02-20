@@ -152,18 +152,16 @@ author: ""
   - [my example](../lectures/week-6/moylan-6/InYourEyesAnalysis.drawio.png)
   - Follow along with me to make another graph for a different section of _In Your Eyes_
 
-<!--
-- Quiz 5 Practice
-
 # Week 7 (2/20)
 
 ## Tuesday
 
 - Student journal presentation 4 and discussion
-  - Jake and ?
+  - Jake and another student
 
 > Quiz 5
 
+<!--
 ## Thursday
 
 - Earth, Wind & Fire. \(1998\). “September” from _Greatest Hits_. Sony. \(R&B pop\)
