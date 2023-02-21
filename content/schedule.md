@@ -156,22 +156,23 @@ author: ""
 
 ## Tuesday
 
+- Quiz 6 - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 63 to 500 Hz**
 - For future analysis make sure you're using catagories and definitions from this document
   - [EBU Tech 3286-1997 Subjective evaluation of quality - Music programme - tech3286.pdf](https://tech.ebu.ch/docs/tech/tech3286.pdf)
   - Late journals are accepted, but will have points taken off.
 - Student journal presentation 4 and discussion
   - Jake and another student
 
-> Quiz 5
+> Quiz 5 **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 500 to 4000 Hz**
 
-<!--
 ## Thursday
 
+- Quiz 6 practice - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 63 to 500 Hz**
 - Earth, Wind & Fire. \(1998\). “September” from _Greatest Hits_. Sony. \(R&B pop\)
 - keep going with moylan - there's more details about analysis in the following chapters
 - Shafer - Exercise 9?
-- Quiz 6 practice
 
+<!--
 # Week 8 (2/27)
 
 ## Tuesday
@@ -179,7 +180,7 @@ author: ""
 - Le Concert des Nations. \(2002\). “Marche pour la céré- monie” from _Soundtrack from the film Tous les matins du monde_. Alia Vox Spain. \(Baroque orchestra\)
 - Student journal presentation 5 and discussion
 
-> Quiz 6
+> Quiz 6 - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 63 to 500 Hz**
 > Shafer - Exercise 15 diary
 
 ## Thursday
