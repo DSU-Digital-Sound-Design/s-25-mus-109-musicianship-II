@@ -157,6 +157,7 @@ author: ""
 ## Tuesday
 
 - Quiz 6 - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 63 to 500 Hz**
+  - Suggest a new song?
 - For future analysis make sure you're using catagories and definitions from this document
   - [EBU Tech 3286-1997 Subjective evaluation of quality - Music programme - tech3286.pdf](https://tech.ebu.ch/docs/tech/tech3286.pdf)
   - Late journals are accepted, but will have points taken off.
