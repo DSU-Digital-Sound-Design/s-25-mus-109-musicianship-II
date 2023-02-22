@@ -168,10 +168,10 @@ author: ""
 
 ## Thursday
 
+- No in person class
+  - practice for Quiz 6
+  - watch my video (posted to D2L) on plotting the frequency spectrum of a sound recording
 - Quiz 6 practice - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 63 to 500 Hz**
-- Earth, Wind & Fire. \(1998\). “September” from _Greatest Hits_. Sony. \(R&B pop\)
-- keep going with moylan - there's more details about analysis in the following chapters
-- Shafer - Exercise 9?
 
 <!--
 # Week 8 (2/27)
