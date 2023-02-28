@@ -173,23 +173,25 @@ author: ""
   - watch my video (posted to D2L) on plotting the frequency spectrum of a sound recording
 - Quiz 6 practice - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 63 to 500 Hz**
 
-<!--
 # Week 8 (2/27)
 
 ## Tuesday
 
-- Le Concert des Nations. \(2002\). “Marche pour la céré- monie” from _Soundtrack from the film Tous les matins du monde_. Alia Vox Spain. \(Baroque orchestra\)
-- Student journal presentation 5 and discussion
+- Jake student presentation
 
 > Quiz 6 - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 63 to 500 Hz**
-> Shafer - Exercise 15 diary
 
 ## Thursday
 
-- Shafer - Exercise 15
-  - get 5 student responses
-- Quiz 7 practice
+- name that tune - 10 min
+  - it's been a minute
+- The grades were pretty good, so let's move onto the next frequency group:
+- Quiz 7 practice - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 2000 - 16000 Hz**
+- [The Illusion of Space as an Element of Recording](../lectures/week-8/space/)
+  - For the next analysis, focus on the spatial and stereo impression.
+  - Show some examples of reverb (Dragonfly Reverb) and panning settings in Reaper.
 
+<!--
 # Week 9 (3/6)
 
 ## Tuesday
