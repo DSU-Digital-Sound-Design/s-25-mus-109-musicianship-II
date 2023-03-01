@@ -185,6 +185,7 @@ author: ""
 
 - name that tune - 10 min
   - it's been a minute
+- The next journal's will be due in a week from Tuesday. This should give you more time to do the graphical analysis. I'll post full instructions by Friday.
 - The grades were pretty good, so let's move onto the next frequency group:
 - Quiz 7 practice - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 2000 - 16000 Hz**
 - [The Illusion of Space as an Element of Recording](../lectures/week-8/space/)
@@ -196,8 +197,7 @@ author: ""
 
 ## Tuesday
 
-- Randall, Jon. \(2005\). _Walking Among the Living_. Epic/ Sony BMG Music Entertainment. \(roots music/bluegrass\)
-- Student journal presentation 6 and discussion
+- Student journal presentation
 
 > Quiz 7
 > Shafer Shafer - Exercise 16 diary
