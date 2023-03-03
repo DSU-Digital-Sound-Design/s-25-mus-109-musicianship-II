@@ -192,16 +192,15 @@ author: ""
   - For the next analysis, focus on the spatial and stereo impression.
   - Show some examples of reverb (Dragonfly Reverb) and panning settings in Reaper.
 
-<!--
 # Week 9 (3/6)
 
 ## Tuesday
 
-- Student journal presentation
+- Student journal presentations
 
-> Quiz 7
-> Shafer Shafer - Exercise 16 diary
+> Quiz 7 - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 2000 - 16000 Hz**
 
+<!--
 ## Thursday
 
 - Shafer Shafer - Exercise 16 diary presentations
