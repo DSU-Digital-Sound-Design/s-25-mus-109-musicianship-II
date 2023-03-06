@@ -197,6 +197,7 @@ author: ""
 ## Tuesday
 
 - Student journal presentations
+- See Week 7 on D2L for two videos on completing your sound journals.
 
 > Quiz 7 - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 2000 - 16000 Hz**
 
