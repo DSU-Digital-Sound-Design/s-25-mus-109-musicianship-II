@@ -196,17 +196,23 @@ author: ""
 
 ## Tuesday
 
+- Sound opportunities
+  - Cyberology Podcast - editing and recording
+  - Mastersingers - record one concert: the dress rehearsal is at the church on Thursday, March 30 at 7 p.m., and the concert on Sunday, April 2 at 4:30 p.m.
 - Student journal presentations
 - See Week 7 on D2L for two videos on completing your sound journals.
 
 > Quiz 7 - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 2000 - 16000 Hz**
 
-<!--
 ## Thursday
 
-- Shafer Shafer - Exercise 16 diary presentations
-- Quiz 8 practice
+<!-- What is quiz 8?  -->
 
+- Finish: The Illusion of Space as an Element of Recording
+- Quiz 8 practice - all ISO frequencies, 12 dB
+- After the break we move onto Dynamics and Reverb, three levels of difficulty each
+
+<!--
 # Week 10 (3/13)
 
 - Spring Break - No Classes
