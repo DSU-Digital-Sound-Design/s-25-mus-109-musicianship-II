@@ -199,6 +199,7 @@ author: ""
 - Sound opportunities
   - Cyberology Podcast - editing and recording
   - Mastersingers - record one concert: the dress rehearsal is at the church on Thursday, March 30 at 7 p.m., and the concert on Sunday, April 2 at 4:30 p.m.
+- Show exporting Reaper projects with the song
 - Student journal presentations
 - See Week 7 on D2L for two videos on completing your sound journals.
 
