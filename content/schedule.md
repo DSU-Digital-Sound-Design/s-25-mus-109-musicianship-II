@@ -207,9 +207,7 @@ author: ""
 
 ## Thursday
 
-<!-- What is quiz 8?  -->
-
-- Finish: The Illusion of Space as an Element of Recording
+- Finish: [The Illusion of Space as an Element of Recording](../lectures/week-9/space-2/)
 - Quiz 8 practice - all ISO frequencies, 12 dB
 - After the break we move onto Dynamics and Reverb, three levels of difficulty each
 
