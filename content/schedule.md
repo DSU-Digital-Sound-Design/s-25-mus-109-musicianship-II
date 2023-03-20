@@ -211,7 +211,6 @@ author: ""
 - Quiz 8 practice - all ISO frequencies, 12 dB
 - After the break we move onto Dynamics and Reverb, three levels of difficulty each
 
-<!--
 # Week 10 (3/13)
 
 - Spring Break - No Classes
@@ -220,18 +219,17 @@ author: ""
 
 ## Tuesday
 
-- Steely Dan. \(2000\). “Gaslighting Abbie” from _Two Against Nature_. Giant Records. \(pop\)
-- The Police. \(1983\). “Every Breath You Take” from _Syn- chronicity._ A&M Records. \(rock\)
-- Student journal presentation 7 and discussion
+- Quiz 8 - all ISO frequencies, 12 dB
+- Student journal presentations
 
 > Quiz 8
-> Shafer Shafer - Exercises 36, 37, 42
 
 ## Thursday
 
-- Shafer Shafer - Exercise 36, 37, 42 diary pres
-- Quiz 9 practice
+- more on space in recording
+- Quiz 9 practice - Dynamic range compression
 
+<!--
 # Week 12 (3/27)
 
 ## Tuesday
