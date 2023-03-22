@@ -219,21 +219,22 @@ author: ""
 
 ## Tuesday
 
-- Quiz 8 - all ISO frequencies, 12 dB
 - Student journal presentations
 
 > Quiz 8
 
 ## Thursday
 
-- more on space in recording
-- Quiz 9 practice - Dynamic range compression
+- name that tune
+- Practice All ISO frequencies quiz
+- Finish: [The Illusion of Space as an Element of Recording](../lectures/week-9/space-2/)
 
 <!--
 # Week 12 (3/27)
 
 ## Tuesday
 
+- Quiz 8 - all ISO frequencies, 12 dB
 - Student journal presentation 8 and discussion
 - Spatial attributes and reverberation
 
@@ -242,6 +243,7 @@ author: ""
 
 ## Thursday
 
+- Quiz 9 practice - Dynamic range compression
 - Shafer Shafer - Exercise 68 - field recording - presentations and analysis
 - Quiz 10 practice
 
