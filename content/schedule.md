@@ -228,6 +228,8 @@ author: ""
 - name that tune
 - Practice All ISO frequencies quiz
 - Finish: [The Illusion of Space as an Element of Recording](../lectures/week-9/space-2/)
+- More on creating the charts
+- more listening for spatial information
 
 <!--
 # Week 12 (3/27)
