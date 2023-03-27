@@ -238,16 +238,12 @@ author: ""
 - Quiz 8 - all ISO frequencies, 12 dB
 - Student journal presentation 8 and discussion
 
-<!--
-> Quiz 9
-> Shafer Shafer - Exercise 68 - field recording
-
 ## Thursday
 
 - Quiz 9 practice - Dynamic range compression
-- Shafer Shafer - Exercise 68 - field recording - presentations and analysis
-- Quiz 10 practice
+- Ways on loudness analysis
 
+<!--
 # Week 13 (4/3)
 
 ## Tuesday
