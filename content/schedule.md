@@ -231,15 +231,14 @@ author: ""
 - More on creating the charts
 - more listening for spatial information
 
-<!--
 # Week 12 (3/27)
 
 ## Tuesday
 
 - Quiz 8 - all ISO frequencies, 12 dB
 - Student journal presentation 8 and discussion
-- Spatial attributes and reverberation
 
+<!--
 > Quiz 9
 > Shafer Shafer - Exercise 68 - field recording
 
