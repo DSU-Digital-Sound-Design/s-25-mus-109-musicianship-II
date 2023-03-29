@@ -240,8 +240,11 @@ author: ""
 
 ## Thursday
 
+- song pop party
 - Quiz 9 practice - Dynamic range compression
-- Ways on loudness analysis
+  - Matching Memory, level 1, Attack, release, and ratio times separately
+  - practice each parameter with different sounds
+- [Loudness, the Confluence of Domains and Deep Listening](../lectures/week-12/loudness/)
 
 <!--
 # Week 13 (4/3)
@@ -256,7 +259,6 @@ author: ""
 
 ## Thursday
 
-- Shafer Shafer - Exercise 69 - field recording pres and analysis
 - Quiz 11 practice
 
 # Week 14 (4/10)
