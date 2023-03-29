@@ -244,6 +244,7 @@ author: ""
 - Quiz 9 practice - Dynamic range compression
   - Matching Memory, level 1, Attack, release, and ratio times separately
   - practice each parameter with different sounds
+  - lets do a practice quiz on Tuesday
 - [Loudness, the Confluence of Domains and Deep Listening](../lectures/week-12/loudness/)
 
 <!-- edit -->
@@ -252,8 +253,8 @@ author: ""
 
 ## Tuesday
 
+- Dynamic range - practice and practice quiz
 - Student journal presentation 9 and discussion
-- Dynamic range
 
 > Quiz 10
 > Shafer Shafer - Exercise 69 - field recording
