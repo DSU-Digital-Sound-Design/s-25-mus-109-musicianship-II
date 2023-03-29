@@ -246,6 +246,7 @@ author: ""
   - practice each parameter with different sounds
 - [Loudness, the Confluence of Domains and Deep Listening](../lectures/week-12/loudness/)
 
+<!-- edit -->
 <!--
 # Week 13 (4/3)
 
