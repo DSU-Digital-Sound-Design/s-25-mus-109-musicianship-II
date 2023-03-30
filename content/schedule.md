@@ -247,18 +247,15 @@ author: ""
   - lets do a practice quiz on Tuesday
 - [Loudness, the Confluence of Domains and Deep Listening](../lectures/week-12/loudness/)
 
-<!-- edit -->
-<!--
 # Week 13 (4/3)
 
 ## Tuesday
 
 - Dynamic range - practice and practice quiz
 - Student journal presentation 9 and discussion
+  - Two more presentations on Spatial image with diagrams
 
-> Quiz 10
-> Shafer Shafer - Exercise 69 - field recording
-
+<!--
 ## Thursday
 
 - Quiz 11 practice
