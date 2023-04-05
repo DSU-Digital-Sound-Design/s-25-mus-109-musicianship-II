@@ -245,7 +245,6 @@ author: ""
   - Matching Memory, level 1, Attack, release, and ratio times separately
   - practice each parameter with different sounds
   - lets do a practice quiz on Tuesday
-- [Loudness, the Confluence of Domains and Deep Listening](../lectures/week-12/loudness/)
 
 # Week 13 (4/3)
 
@@ -255,39 +254,60 @@ author: ""
 - Student journal presentation 9 and discussion
   - Two more presentations on Spatial image with diagrams
 
-<!--
 ## Thursday
 
-- Quiz 11 practice
+- Song pop party
+- Review the rest of the semester
+  - schedule presentations
+- Quiz 9 practice - Compression
+
+> [Final Paper](../assignments/final-paper/) - DUE Friday April 28th
+>
+> [Final Presentations](../assignments/final-presentation/) - April 20, 25, 27
+>
+> Final Exam - Thursday, May 4th, 10:30 am - 12:30 pm
+> Will include WebTET exercises for parametric equalization, dynamic compression, and reverberation.
+
+<!-- - [Loudness, the Confluence of Domains and Deep Listening](../lectures/week-12/loudness/) -->
 
 # Week 14 (4/10)
 
 ## Tuesday
 
-- Student journal presentation 10 and discussion
-- Distortion and practice
+- Student journal presentation and discussion
+  - Calvin
+  - Nick
 
-> Quiz 11
+> Quiz 9 - Compression
 
 ## Thursday
 
-- Begin preparations and study for the final listening exam
-- Presentations of the final paper covering a collection of your listening journals. Compare 3 - 5 of your songs to each other. How did the different songs treat space? EQ? etc.? Did historical considerations influence these things?
-- Length: 2 - 3 pages
-- Presentations - 20 minutes each; more organized than the journal presentations, must include a PowerPoint with thought out details and musical examples.
+- Song pop party
+- Reverb WebTET practice
 
 # Week 15 (4/17)
 
 ## Tuesday
 
-- Presentations
+- Student journal presentation
+  - Jake
+  - Orlando
+- Reverb WebTET practice
 
 > Quiz 12
 
 ## Thursday
 
-- Presentations
+- Final Journal Presentations
 
 # Week 16 (4/24)
 
-> Exam - Thursday, May 4th, 10:30 am - 12:30 pm -->
+## Tuesday
+
+- Final Journal Presentations
+
+## Thursday
+
+- Final Journal Presentations
+
+> Exam - Thursday, May 4th, 10:30 am - 12:30 pm
