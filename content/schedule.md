@@ -260,6 +260,10 @@ author: ""
 - Review the rest of the semester
   - schedule presentations
 - Quiz 9 practice - Compression
+  - Snare drum
+    - 3 questions for each: attack, release, ratio
+  - Full mix - MS1263_Mix1Full_MR1006.wav
+    - 3 questions for each: attack, release, ratio
 
 > [Final Paper](../assignments/final-paper/) - DUE Friday April 28th
 >
