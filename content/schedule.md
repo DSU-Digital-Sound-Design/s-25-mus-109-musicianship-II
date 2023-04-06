@@ -303,15 +303,21 @@ author: ""
 ## Thursday
 
 - Final Journal Presentations
+  - Orlando
 
 # Week 16 (4/24)
 
 ## Tuesday
 
 - Final Journal Presentations
+  - Sam
+  - Noah
 
 ## Thursday
 
 - Final Journal Presentations
+  - Calvin
+  - Hunter
+  - Abbie
 
 > Exam - Thursday, May 4th, 10:30 am - 12:30 pm
