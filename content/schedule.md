@@ -298,12 +298,12 @@ author: ""
   - Orlando
 - Reverb WebTET practice
 
-> Quiz 12
-
 ## Thursday
 
 - Final Journal Presentations
   - Orlando
+  - Wiley
+  - Jake
 
 # Week 16 (4/24)
 
@@ -312,6 +312,7 @@ author: ""
 - Final Journal Presentations
   - Sam
   - Noah
+  - Nick
 
 ## Thursday
 
