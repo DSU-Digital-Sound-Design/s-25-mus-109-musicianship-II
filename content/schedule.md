@@ -6,7 +6,7 @@ author: ""
 
 {{< toc >}}
 
-# Week 1 (1/9)
+# Week 1 (1/8)
 
 ## Tuesday
 
@@ -27,12 +27,12 @@ author: ""
 - 10 minutes of quiz 0
   - Show the EQ and give a brief demo for those who need it.
 - [Corey, Chapter 1: Listening](../lectures/week-1/1-corey/) - including name that microphone and name that tune.
-
-# Week 2 (1/16)
+<!-- 
+# Week 2 (1/15)
 
 ## Tuesday
 
-- Play "name that tune" with Song Pop Party. The faster you answer, the more you're using timbre to figure it out rather than melody.
+- Play "Name That Tune" with Song Pop Party. The faster you answer, the more you're using timbre to figure it out rather than melody.
 - 5-10 minutes of practice with Tribe drum loop.
 - [Spectral Balance and Equalization](../lectures/week-2/2-corey/)
   - Shaping Spectral Balance
@@ -49,7 +49,7 @@ author: ""
   - Practice singing vowel sounds as a class!
   - practice with other music from that Corey list?
 
-# Week 3 (1/23)
+# Week 3 (1/22)
 
 ## Tuesday
 
@@ -76,12 +76,11 @@ author: ""
   - Sheryl Crow\: “Strong Enough”
   - We'll listen to it in class, then read the analysis and talk more about it next week
 
-<!-- TODO: Download and make tracks available for students to listen to -->
 
 > Homework: Read 7.2.1 Sheryl Crow: “Strong Enough” from the Corey and listen to the tracks Corey analyses. Be able to talk about your own impressions during next class.
 > Download the song [here](https://dakotastateuniversity-my.sharepoint.com/:u:/g/personal/tate_carson_dsu_edu/EYKzTsH0yZpAqSV6lweIGuEBLYJscKO9u-MGt7F7VXdzrQ?e=pzaDxe).
 
-# Week 4 (1/30)
+# Week 4 (1/29)
 
 ## Tuesday
 
@@ -108,7 +107,7 @@ author: ""
     - 6 minutes rest
     - repeat as often as you can
 
-# Week 5 (2/6)
+# Week 5 (2/5)
 
 ## Tuesday
 
@@ -124,7 +123,7 @@ author: ""
 - Quiz 3 practice
   - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 500 to 2000 Hz**
 
-# Week 6 (2/13)
+# Week 6 (2/12)
 
 ## Tuesday
 
@@ -152,7 +151,7 @@ author: ""
   - [my example](../lectures/week-6/moylan-6/InYourEyesAnalysis.drawio.png)
   - Follow along with me to make another graph for a different section of _In Your Eyes_
 
-# Week 7 (2/20)
+# Week 7 (2/19)
 
 ## Tuesday
 
@@ -173,7 +172,7 @@ author: ""
   - watch my video (posted to D2L) on plotting the frequency spectrum of a sound recording
 - Quiz 6 practice - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 63 to 500 Hz**
 
-# Week 8 (2/27)
+# Week 8 (2/26)
 
 ## Tuesday
 
@@ -192,7 +191,7 @@ author: ""
   - For the next analysis, focus on the spatial and stereo impression.
   - Show some examples of reverb (Dragonfly Reverb) and panning settings in Reaper.
 
-# Week 9 (3/6)
+# Week 9 (3/4)
 
 ## Tuesday
 
@@ -211,11 +210,11 @@ author: ""
 - Quiz 8 practice - all ISO frequencies, 12 dB
 - After the break we move onto Dynamics and Reverb, three levels of difficulty each
 
-# Week 10 (3/13)
+# Week 10 (3/11)
 
 - Spring Break - No Classes
 
-# Week 11 (3/20)
+# Week 11 (3/18)
 
 ## Tuesday
 
@@ -231,7 +230,7 @@ author: ""
 - More on creating the charts
 - more listening for spatial information
 
-# Week 12 (3/27)
+# Week 12 (3/25)
 
 ## Tuesday
 
@@ -246,7 +245,7 @@ author: ""
   - practice each parameter with different sounds
   - lets do a practice quiz on Tuesday
 
-# Week 13 (4/3)
+# Week 13 (4/1)
 
 ## Tuesday
 
@@ -272,9 +271,7 @@ author: ""
 > Final Exam - Thursday, May 4th, 10:30 am - 12:30 pm
 > Will include WebTET exercises for parametric equalization, dynamic compression, and reverberation.
 
-<!-- - [Loudness, the Confluence of Domains and Deep Listening](../lectures/week-12/loudness/) -->
-
-# Week 14 (4/10)
+# Week 14 (4/8)
 
 ## Tuesday
 
@@ -289,7 +286,7 @@ author: ""
 - Song pop party
 - Reverb WebTET practice
 
-# Week 15 (4/17)
+# Week 15 (4/15)
 
 ## Tuesday
 
@@ -305,7 +302,7 @@ author: ""
   - Wiley
   - Jake
 
-# Week 16 (4/24)
+# Week 16 (4/22)
 
 ## Tuesday
 
@@ -321,4 +318,7 @@ author: ""
   - Hunter
   - Abbie
 
-> Exam - Thursday, May 4th, 10:30 am - 12:30 pm
+> Exam - Thursday, May 2, 10:30 am – 12:30 pm 
+> 
+
+ -->
