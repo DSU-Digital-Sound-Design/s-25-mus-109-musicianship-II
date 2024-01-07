@@ -11,7 +11,7 @@ author: ""
 ## Tuesday
 
 - Syllabus
-- Show how to access course textbook.
+- Show how to access the course textbook.
 - [How do we evaluate and talk about sound?](../lectures/week-1/4-moylan/)
 - [Corey introduction](../lectures/week-1/0-corey/)
 - `Quiz 0` - 1 octave, 1 band, + 12 dB, sound file, freq 500 to 2000 Hz
