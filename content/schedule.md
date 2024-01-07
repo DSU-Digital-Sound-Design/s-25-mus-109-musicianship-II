@@ -14,9 +14,6 @@ author: ""
 - Show how to access the course textbook.
 - [How do we evaluate and talk about sound?](../lectures/week-1/4-moylan/)
 - [Corey introduction](../lectures/week-1/0-corey/)
-- `Quiz 0` - 1 octave, 1 band, + 12 dB, sound file, freq 500 to 2000 Hz
-  - ISO octaves - 63, 125, 250, 500, 1000, 2000, 4000, 8000, and 16000 Hz
-  - Click [here](../lectures/week-1/quiz-0-answers/) to check your answers after the prelim quiz is over.
 
 > Homework
 >
@@ -24,9 +21,13 @@ author: ""
 
 ## Thursday
 
+- `Quiz 0` - 1 octave, 1 band, + 12 dB, sound file, freq 500 to 2000 Hz
+  - ISO octaves - 63, 125, 250, 500, 1000, 2000, 4000, 8000, and 16000 Hz
+  - Click [here](../lectures/week-1/quiz-0-answers/) to check your answers after the prelim quiz is over.
 - 10 minutes of quiz 0
   - Show the EQ and give a brief demo for those who need it.
 - [Corey, Chapter 1: Listening](../lectures/week-1/1-corey/) - including name that microphone and name that tune.
+
 <!-- 
 # Week 2 (1/15)
 
