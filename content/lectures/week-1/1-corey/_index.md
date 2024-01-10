@@ -7,13 +7,58 @@ margin = 0.2
 separator = "##"
 +++
 
-## What is technical ear training?
+## Critical Listening in Audio Engineering
 
-> Technical Ear Training - a type of perceptual learning focused on timbral, dynamic, and spatial attributes of sound as they relate to audio recording and production.
+- The Role of Sound in Understanding the Environment
+- Observing Sound Characteristics in Different Spaces
+- Application in Audio Engineering
+- Key Factors in Critical Listening
 
 {{% note %}}
 
-These skills allow us to talk about sound in a more concrete and consistent way. One of the things we'll learn through focused practice is how to identify sounds and sound qualities that were originally indistinguishable.
+- Sound provides insights into our environment, revealing the nature of surrounding objects and spaces through their interactions with sound, like reflections and absorption.
+- Different environments, like concert halls and living rooms, affect sound differently, demonstrating the impact of physical characteristics like size, shape, and materials on sound quality.
+- Audio engineers use critical listening to capture, mix, and shape sound, focusing on aspects like balance and timbre. This skill is essential in recording and producing audio that conveys the intended artistic message.
+- Critical listening involves paying attention to timbre, dynamics, overall balance, potential distortion or noise, spatial effects, and stereo panning to ensure quality audio production.
+
+{{%/ note %}}
+
+---
+
+#### Soundscape observation
+
+* What sounds are present at any given moment?
+* Besides the more obvious sounds, are there any constant, steady-state, sustained sounds, such as air handling noise or lights humming, that are usually ignored? Where is each sound located? Are the locations clear and distinct, or diffuse and ambiguous?
+* How far away are the sound sources?
+* How loud are they?
+* What is the character of the acoustic space? Are there any echoes? What is the reverberation decay time?
+It can be informative to aurally analyze recorded music
+
+---
+
+### Aural Analysis of Recorded Music
+
+* How is the timbre of the sound affected by the system and environment through which it is presented?
+* Are all of the elements of the sound clearly audible? If they are not, what elements are difficult to hear and which ones are most prominent?
+* If the music is familiar, does the balance seem the same as what has been heard in other listening situations?
+
+<iframe frameborder="0" scrolling="no" src="https://freesound.org/embed/sound/iframe/426916/simple/small/" width="375" height="30"></iframe>
+
+---
+
+## Understanding Technical Ear Training
+
+- Definition and Importance
+- Key Components: Timbre, Dynamics, Spatial Attributes
+- Role in Audio Engineering
+- The Process of Developing Skills
+
+{{% note %}}
+
+- Technical ear training is akin to musical ear training but tailored for audio professionals. It's essential for roles in recording studios, live sound, and audio hardware/software development.
+- It involves learning to discern timbre (sound quality), dynamics (loudness variations), and spatial attributes (sound location and movement) in audio production.
+- This training enables audio engineers to analyze and depend on their auditory perceptions for more precise and effective work.
+- The skill development process involves focused practice on differentiating subtle sound variations, enhancing one's ability to extract and interpret complex audio information.
 
 {{%/ note %}}
 
@@ -65,33 +110,35 @@ Technical ear training focuses on the features, characteristics, and sonic artif
 
 ### Isomorphic Mapping
 
-> One of the primary goals of this book is to facilitate isomorphic mapping of technical and engineering parameters to perceptual attributes; to assist in the linking of auditory perceptions with control of physical properties of audio signals.
+- Understanding Subtle Changes in Sound
+- Isomorphic Mapping in Audio Technology
+- The Challenge of Relating Technical Parameters to Perceptual Attributes
+- The Importance of Ear Training in Audio Engineering
 
 {{% note %}}
 
-One has to have a deep understanding of not only the frequencies and their relationships, but also what a specific control on the EQ will do in different situations.
+- Audio professionals must be adept at detecting subtle changes in sound and knowing how to use tools to address these changes, emphasizing the importance of linking auditory perceptions with technical control.
+- Isomorphic mapping helps engineers connect technical parameters of audio equipment with perceptual attributes of sound. However, it's challenging for novices to understand how changes in technical settings like frequency or gain affect perceived sound quality.
+- Training in audio engineering emphasizes the ability to associate specific technical adjustments with their auditory effects. Concepts like timbre solfeggio are used to focus training on spectral balance and sound quality.
+- The development of internal mappings between specific frequencies and their perceptual effects is crucial. Experienced engineers can translate their auditory experiences into precise technical adjustments, akin to a musician's mastery over their instrument.
 
 {{%/ note %}}
 
 ---
 
-### Increasing Awareness
+## Enhancing Awareness in Technical Ear Training
 
-> The second goal of technical ear training is to increase our awareness of subtle details of sound and develop our ability to discern and identify by ear minute changes in physical parameters.
+- Goal: Enhancing Detail Awareness in Sound
+- Role of Decision-Making in Recording
+- Importance of Each Technical Aspect
+- Like painting
 
 {{% note %}}
-The more we practice, the more we'll be able to hear that we couldn't before, because we weren't listening for it.
 
-Decisions one might make in the recording process:
-
-- Microphone model, location, and orientation for each instrument being recorded.
-- Preamplifier model and gain settings for each microphone.
-- Recording level—which must be set high enough to reduce noise and quantization error, and low enough to avoid overloading a gain stage.
-- Equalizer model and specific equalization parameter settings for each microphone signal.
-- Noise—which can take many forms but in general is any sound that is not intended to be part of a recording. Examples include clicks/pops produced by analog or digital electronics, tape hiss, quantization error, air handling noise (which can be in the form of a low rumble and therefore not immediately apparent), external and environmental sounds such as traffic and subways, 50- or 60-Hz buzz or hum.
-- Timbral quality—primarily frequency content and spectral balance. Every analog component from the microphone to the input of the recording device, as well as every stage of analog to digital conversion and re-quantization will have some effect on the timbral quality of audio. Dynamic range and dynamics processing—sound, musical or otherwise, will have a certain range from loud (fortissimo) to soft (pianissimo), and this range can be altered through dynamics processing, such as compressors and expanders.
-- Balancing or mixing levels of recorded microphone signals.
-- Spatial characteristics—includes reverberation, echo, reflections, delays, as well as panning and positioning of sound sources within the stereo or surround image.
+- The second objective of technical ear training is to heighten awareness of subtle sound details, enabling the discernment of minor changes in physical sound parameters.
+- In recording, numerous critical decisions are made regarding technical aspects like microphone placement, recording levels, and equalization. Each decision impacts the overall sound quality and influences subsequent choices.
+- The cumulative effect of these subtle decisions is significant. Early choices in a project, especially those affecting sound quality, are crucial and often irreversible.
+- Comparing this process to painting, just as painters use specific colors and strokes to create a comprehensive image, recording engineers focus on distinct sonic characteristics that collectively create a powerful, meaningful final sound mix.
 
 {{%/ note %}}
 
@@ -99,18 +146,34 @@ Decisions one might make in the recording process:
 
 ### Increasing Speed of Detection
 
-> the third goal is to increase the speed with which we can identify and decide on appropriate engineering parameters to change.
-
----
-
-## Shaping Sounds
-
-Early Mountain Goats - [Full Force Galesburg](https://music.apple.com/us/album/twin-human-highway-flares/266720760?i=266721047)
+- Goal: Faster Identification and Adjustment
+- Impact on Recording and Mixing Efficiency
+- Cross-Skill Improvement in Critical Listening
+- Learning to Distinguish Between Equipment Characteristics
 
 {{% note %}}
 
-Timbre can be the most important aspect of a recording.
+- The third goal of technical ear training is to quicken the identification of sound issues and the decision-making process for adjusting engineering parameters.
+- Speed in recognizing and addressing sonic characteristics is crucial, particularly during recording and mixing sessions where time is a valuable resource.
+- Enhanced sensitivity in one aspect of listening, like equalization, can improve skills in other areas, such as compression or reverberation, due to overall improved listening abilities.
+- Engineers learn to discern the unique sound qualities of different equipment, akin to a pianist adapting to different pianos. This skill allows them to effectively use a variety of tools, even unfamiliar ones, by understanding their general characteristics and applying their critical listening skills.
 
-Can you think of a record where timbre plays a more important aspect than the musical content?
+{{%/ note %}}
+
+---
+
+## The Art of Shaping Sounds in Recording
+
+- Timbre as a Distinctive Element in Recordings
+- Role of the Recording Studio in Sound Manipulation
+- Interrelated Adjustments in Mixing
+- The Limitations of Physical Measurement Tools
+
+{{% note %}}
+
+- Timbre, often the most identifiable feature of a recording, is crucial in shaping the sound of music. It can be so distinctive that listeners can recognize a song from a fraction of a second's excerpt.
+- Recording studios enable the creation of sonic landscapes beyond acoustic possibilities, altering the spectral, spatial, and dynamic properties of sound.
+- In mixing, adjustments to one track can influence the perception of others. Engineers meticulously balance levels and apply effects like compression and equalization to sculpt the mix.
+- Despite technological advancements, human ears remain the most reliable tool for assessing sound quality. Trained listeners are key in identifying subtle details and deficiencies in sound, highlighting the limitations of physical measurement tools in capturing the full spectrum of audio perception.
 
 {{%/ note %}}
