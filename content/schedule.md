@@ -26,18 +26,17 @@ author: ""
   - ISO octaves - 63, 125, 250, 500, 1000, 2000, 4000, 8000, and 16000 Hz
   - Click [here](../lectures/week-1/quiz-0-answers/) to check your answers after the prelim quiz is over.
 
-<!-- 
 # Week 2 (1/15)
 
 ## Tuesday
 
 - Play "Name That Tune" with Song Pop Party. The faster you answer, the more you're using timbre to figure it out rather than melody.
-- 5-10 minutes of practice with Tribe drum loop.
 - [Spectral Balance and Equalization](../lectures/week-2/2-corey/)
   - Shaping Spectral Balance
   - Types of Filters and
   - Getting Started with Practice
 
+<!-- 
 ## Thursday
 
 - Moylan Chapter 5 - [Fundamental Listening Skills](../lectures/week-2/5-moylan/)
