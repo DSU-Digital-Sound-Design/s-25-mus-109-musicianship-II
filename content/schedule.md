@@ -45,19 +45,16 @@ author: ""
   - Practice singing vowel sounds as a class!
   - practice with other music from that Corey list?
 
-<!-- 
 # Week 3 (1/22)
 
 ## Tuesday
 
 > Quiz 1
+> 1 octave, 1 band, + 12 dB, pink noise and [sound file](../lectures/week-2/kick-it.m4a) (the "can I kick it" loop), freq 500 to 2000 Hz
 
-- [Headphones Buying Guide](https://www.sweetwater.com/insync/headphones-buying-guide/)
-  - Open back - best for mixing and critical listening - not good for recording in the studio
-  - Closed back - good for recording in the studio
-  - A mix between the two: [AKG K240 Studio Semi-open Pro Studio Headphones | Sweetwater](https://www.sweetwater.com/store/detail/K240S--akg-k240-studio-semi-open-pro-studio-headphones)
 - Chapter 7 - [Analysis of sound](../lectures/week-3/7-corey/)
 
+<!-- 
 ## Thursday
 
 - name that tune - 10 minutes

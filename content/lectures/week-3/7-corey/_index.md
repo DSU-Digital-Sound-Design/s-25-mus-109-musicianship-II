@@ -9,10 +9,21 @@ separator = "##"
 
 # Analysis of sound
 
-{{% note %}}
-We will use these subjective methods of sound analysis to work on our sound journals through the semester. These will get more detailed and specific over the course of the semester. These will culminate in a paper on one recording and a presentation on that paper.
+---
 
-> What makes sound recordings (records) different from live performance or even live band recordings?
+## Sound Quality and Music Production: A Broader Perspective
+
+- Distinctive attributes of recorded sound
+- Differences between live and recorded performances
+- Role of recording engineers and producers
+- Importance of studying a variety of recordings
+
+{{% note %}}
+
+- Recorded sound has specific qualities that make it unique, focusing on timbral, spatial, and dynamic aspects.
+- While live performances offer immediacy, recorded music provides a different experience, characterized by clarity and a crafted sense of space, though it may convey a more distant perspective due to reverberation.
+- Recording engineers and producers play a pivotal role in shaping the listening experience by adjusting levels and processing, guiding listeners through the musical journey.
+- Analyzing a diverse range of recordings across various genres and noting the production choices and personnel involved enriches an engineer's understanding and informs their approach to sound quality and mix balance.
 
 {{%/ note %}}
 
@@ -33,93 +44,116 @@ Knowing who helped create the recording can aid in the analysis of it. Look at s
 
 ---
 
-## Analysis of sound from Electroacoustic sources
+## Analysis of Sound from Electroacoustic Sources
 
-- sound quality
-- technical fidelity
-- sonic characteristics
+- Analyzing sonic signatures
+- Impact of sound quality on musical meaning
+- Deconstruction of a stereo image
+- Deepening critical listening skills
+  -  [European Broadcasting Union Technical Document 3286](https://tech.ebu.ch/docs/tech/tech3286.pdf) titled “Assessment Methods for the Subjective Evaluation of the Quality of Sound Programme Material— Music”:
 
 {{% note %}}
-Through the analysis process it is possible to learn to identify what aspects of their recordings make them particularly successful from a timbral, spatial, and dynamic point of view.
 
-The **sound quality, technical fidelity, and sonic characteristics** of a recording have a significant impact on how clearly the musical meaning and intentions of a recording are communicated to listeners. Components of a stereo image can be deconstructed to learn more about the use of reverberation and delays, panning, layering and balancing, dynamics processing, and equalization.
-
-Sound mixing at it's most basic level involves gain or level variation over time. This can be done either to the entire frequency spectrum, or a small subset. An analysis can cover how the recording used this emphasis or deemphasis of frequencies to enhance musical meaning.
-
-> At a much deeper level in the analysis of a recording, an engineer who is more advanced in critical listening skills can begin to make guesses about specific models of equipment used during recording and mixing, based on the timbres and amplitude envelopes of components in a sound image.
+- Analyzing recordings critically helps in understanding the unique sonic signatures of artists, producers, or engineers, particularly in terms of timbre, space, and dynamics.
+- The clarity of sound quality, technical fidelity, and sonic characteristics of a recording significantly influence how listeners perceive the musical intent and meaning.
+- Learning the components of a stereo image, such as reverberation, panning, and equalization, enhances understanding of sound mixing and its foundational element: control of sound level or amplitude.
+- Advanced critical listening involves not only deconstructing the overall mix but also delving into the specific details of each sound source, even predicting the models of equipment used, based on the sound's characteristics.
 
 {{%/ note %}}
 
 ---
 
-Analysis characteristics
+## Analysis of Sound: Overall Bandwidth
 
-- [European Broadcasting Union Technical Document 3286](https://tech.ebu.ch/docs/tech/tech3286.pdf) titled “Assessment Methods for the Subjective Evaluation of the Quality of Sound Programme Material— Music”:
-  - Overall bandwidth
-  - Spectral balance
-  - Auditory image
-  - Spatial impression, reverberation, and time-based effects Dynamic range, changes in level or gain, artifacts from dynamics processing (compressors/expanders)
-  - Noise and distortion
-  - Balance of elements within a mix
-
----
-
-## Overall Bandwidth
-
-- the frequency content and how far it extends to the lowest and highest frequencies of the audio spectrum
-- Does the recording go from 20 Hz to 20 kHz?
-- Consider the overtones, not just fundamentals
+- Definition and importance of overall bandwidth
+- Impact of medium and technology on bandwidth
+- Effects of bandwidth limitations
+- Consideration of high frequency overtones
 
 {{% note %}}
-FM radio extends only up to about 15kHz and the bandwidth of standard telephone communication ranges from about 300 to 3000 Hz. A record- ing may be limited by its recording medium, a sound system can be limited by its electronic components, and a digital signal may be down-sampled to a narrower bandwidth to save data transmission. The effect of narrowing a bandwidth can be heard through the use of high- and low- pass filters.
 
-In making a judgment about high frequency extension, the highest overtones present in recording need to be considered. **The highest fundamental pitches in music do not go much above about 4000 Hz, but overtones from cymbals and brass instruments easily reach 20,000 Hz.** An engineer’s choice of recording equipment or filters may intentionally reduce the bandwidth of a sound, which differentiates the bandwidth of the acoustic and recorded sound of an instrument.
-
-> Demo this in Reaper
+- Overall bandwidth refers to the range of frequencies a recording encompasses, typically from the lowest bass at 20 Hz to the highest treble at 20 kHz. Analyzing this reveals the fullness and richness of a recording.
+- The bandwidth can be limited by factors such as the recording medium, sound system components, or purposeful down-sampling in digital formats to save on data transmission, each impacting the audio quality uniquely.
+- The effects of narrowed bandwidth are perceptible and can be analyzed through the use of high-pass and low-pass filters, which cut off frequencies beyond certain thresholds.
+- In evaluating high-frequency extension, it's crucial to consider the presence of overtones, especially since musical fundamentals generally don't exceed 4,000 Hz, yet overtones from instruments like cymbals and brass can reach up to 20,000 Hz, significantly contributing to the richness and texture of the sound.
 
 {{%/ note %}}
 
 ---
 
-## Spectral Balance
+## Analysis of Sound: Spectral Balance
 
-- the relative level of frequency bands across the entire audio spectrum
-- balance of high to low frequencies
-  - or resonances/anti-resonances
-- Can be measured with an fast Fourier transform (FFT)
+- Understanding spectral balance
+- Methods for measuring spectral balance
+- Subjective analysis of spectral balance
+- Factors influencing spectral balance
+
+{{% note %}}
+
+- Spectral balance refers to the distribution of sound energy across different frequency bands, crucial for achieving a harmonious and pleasing sound. It's not just about the balance between high and low frequencies but also about identifying specific frequency resonances and antiresonances.
+- The power spectrum of an audio signal, often visualized through the fast Fourier transform (FFT), is a common tool for analyzing spectral balance, showcasing the frequency content and relative amplitudes of frequency bands.
+- Subjective analysis involves holistic listening to identify prominent or deficient frequency bands, resonances, and specific musical notes, considering the broader context and nuanced elements of the recording.
+- The spectral balance is influenced by various factors, including equalization, microphone placement and orientation, sound radiation patterns of musical instruments, and the acoustic characteristics of the recording space, all of which can introduce or amplify specific frequencies, shaping the final sound.
+
+{{%/ note %}}
 
 ---
 
-## Possible questions
+## Possible questions for spectral balance
 
 - Are there specific frequency bands that are more prominent or deficient than others?
 - Can we identify resonances by their approximate frequency in Hertz?
 - Are there specific musical notes that are more prominent than others?
 
+---
+
+## Analysis of Sound: Auditory Image
+
+- Concept of the auditory image
+- Creation of stereo images
+- Conventions and techniques in music production
+- Analyzing and understanding stereo image
+
 {{% note %}}
 
-Frequency resonances in recordings can occur because of the deliberate use of equalization, microphone placement around an instrument being recorded, or specific characteristics of an instrument, such as the tuning of a drumhead. The location and angle of orientation of a microphone will have a significant effect on the spectral balance of the recorded sound produced by an instrument. Because musical instruments typically have sound radiation patterns that vary with frequency, a microphone position relative to an instrument is critical in this regard.
+- The auditory image is a listener's mental representation of the external world based on auditory input, allowing localization of sound sources even when they are phantom images created between actual loudspeakers.
+- The stereo image is crafted by manipulating interchannel amplitude and time differences, creating an illusion of sound source locations between two loudspeakers. This process doesn't mimic natural hearing due to the phantom image effect.
+- Conventions in music production, like those in pop and rock, utilize the stereo image in specific ways, often emphasizing the center for critical elements like vocals and bass, with other instruments panned to create balance and depth.
+- Analyzing a stereo image involves assessing its width, the placement and stability of sound sources, and the spatial distribution of these sources, all contributing to the clarity, balance, and overall impact of the recording.
 
 {{%/ note %}}
 
 ---
 
-## Auditory Image
+## Possible questions for auditory image
 
-- “a mental model of the external world which is constructed by the listener from auditory information (p. 198).” Woszcyzk (1993)
-- **stereo image** - forms the auditory impression of sounds located between speakers
-- Does the recording use the full stereo image?
-- Does the recording use conventions of panning or break them?
-- Check with a "correlation meter"
+- How wide or monophonic is the image?
+- What are the locations and widths of individual sound sources in a recording?
+- Are their locations stable and definite or ambiguous? 
+- How easily can the locations of sound sources be pinpointed within a stereo image?
+- Does the sound image appear to have the correct and appropriate spatial distribution of sound sources?
+
+---
+
+## Analysis of Sound: Spatial Impression, Reverberation, and Time-Based Effects
+
+- Importance of spatial impression
+- Analyzing reverberation characteristics
+- Depth perspective and time-based effects
+- Differences between real and artificial reverberation
 
 {{% note %}}
-In the study of music production and mixing techniques, a number of conventions in panning sounds within the ste- reo image are found among various genres of music. For instance, pop and rock generally emphasize the central part of the stereo image, because kick drum, snare drum, bass, and vocals are typically panned to the center. Guitar and keyboard parts are sometimes panned to the side, but overall there is significant energy originating from the center.
+
+- Spatial impression in a recording is pivotal for evoking emotions and setting the scene, with reverberation and echoes playing key roles in creating a sense of space, whether intimate or expansive.
+- Analyzing the spatial impression involves assessing apparent room size, depth perspective, and the characteristics of reverberation, including its realness, duration, and spectral balance.
+- Depth perspective analysis focuses on how well the recording differentiates between foreground and background sounds, the balance of direct sound to reverberation, and the presence of specific time-based effects like chorus or flanging.
+- The authenticity of spatial effects is notable; real acoustic spaces provide a depth and realism that is challenging to replicate with artificial reverberation, especially when the original recording is in an acoustically dead space.
 
 {{%/ note %}}
 
 ---
 
-## Spatial impression, reverberation, and time-based effects
+## Questions for spatial impression
 
 - Apparent room size:
   - How big is the room?
@@ -136,6 +170,8 @@ Show some examples of different spaces in Reaper using \* [OpenAIR – Open Air 
 {{%/ note %}}
 
 ---
+
+## Questions for spatial impression
 
 - What is the spectral balance of the reverberation?
 - What is the direct/reverberant ratio?
@@ -154,17 +190,21 @@ Classical music recordings can give listeners the opportunity to familiarize the
 
 ---
 
-## Dynamic range, changes in level
+## Analysis of Sound: Dynamic Range and Changes in Level
 
-- Some styles have drastic dynamic ranges and changes in level
-  - classical music even has names for ranges such as pianissimo, forte, etc
-  - pop and rock music has more subtle dynamic level changes that we can see on a meter
-- listen for changes in level of individual instruments and of an overall stereo mix.
+- Significance of dynamic range
+- Assessing microdynamics
+- Influence of dynamic range on perceived loudness
+- Impact of dynamic level changes on musical expression
 
 {{% note %}}
-Demo this with automation curves in Reaper.
 
-Also show LUFS view in Reaper.
+- Dynamic range, representing the span between the softest and loudest parts of a recording, varies significantly across musical genres and is essential for conveying the emotional depth and intensity of a piece.
+- Microdynamics, or the subtle fluctuations in sound level, can be observed and analyzed using level meters, revealing how compression and other production choices influence the sound and its perceived loudness.
+- The dynamic range of a recording affects its perceived loudness, with recordings having smaller amplitude fluctuations sounding louder to the human ear than those with larger fluctuations, even if peak amplitudes are equal.
+- Attention to dynamic level changes, whether through manual gain adjustments or automated processes like compression, is crucial as they can underscore musical intentions, enhance the listening experience, or, if not managed well, detract from the musical impact by making quieter sections inaudible.
+- Demo with automation and LUFS in Reaper to show how dynamic range can be controlled.
+
 {{%/ note %}}
 
 ---
@@ -175,13 +215,21 @@ Also show LUFS view in Reaper.
 
 ---
 
-## Noise and distortion
+## Analysis of Sound: Noise and Distortion
 
-- 50 or 60Hz buzz or hum,
-- low-frequency thumps from a microphone or stand being bumped,
-- external noises such as car horns or airplanes,
-- clicks and pops from inaccurate digital synchronization, and
-- drop- outs (very short periods of silence) resulting from defective recording media.
+- Types and sources of noise
+- Avoiding unintentional noise
+- Recognizing and mitigating clipping
+- Artistic versus unintentional distortion
+
+{{% note %}}
+
+- Noise in recordings can stem from a variety of sources, including electrical interference, physical disturbances, external sounds, and issues with digital synchronization or recording media, often detracting from the audio quality if not managed properly.
+- While the general goal in production is to minimize unintentional noise, certain styles or artistic choices may embrace specific noise elements to create a desired effect or atmosphere in the recording.
+- Recognizing and addressing clipping, a form of distortion that occurs when a signal exceeds an equipment's maximum capacity, is crucial to maintain the integrity of the sound. It's important to adjust levels appropriately to avoid or minimize this issue.
+- Differentiating between artistic distortion, intentionally used as a creative effect, and unintentional distortion, which typically degrades the sound quality, is essential in the analysis and production process.
+
+{{%/ note %}}
 
 ---
 
@@ -191,19 +239,20 @@ Also show LUFS view in Reaper.
 
 ---
 
-## Balance of elements within a mix
+## Analysis of Sound: Balance of the Components within a Mix
 
-- Think about questions such as the following:
-  - Are the amplitude levels of the instruments balanced appropriately for the style of music?
-  - Is there an instrument that is too loud or another that is too quiet?
-
----
-
-- Some of these subfeatures might include the following:
-  - Specific features of each component, musical voice, or instrument such as the temporal nature or spatial location of amplitude envelope components (e.g., attack, decay, sustain, and release)
-  - Definition and clarity of elements within a sound image
-  - Width and spatial extent of individual elements
+- Importance of balance in a mix
+- Analyzing amplitude levels and instrument balance
+- Subfeatures of a sound image
+- Role of trained listening in identifying audio details
 
 {{% note %}}
-Show an example from the Riff Raff mix of different ways of balancing components in a mix.
+
+- The balance of elements within a mix profoundly affects the musical meaning, impact, and listener focus, with each component's amplitude influencing the perception of the whole mix and its individual elements.
+- Critical analysis involves assessing whether the amplitude levels of instruments are harmoniously balanced for the music's style and identifying any elements that may be overly dominant or subdued.
+- Beyond the overall mix, the analysis can extend to specific subfeatures such as the temporal and spatial characteristics of each musical voice or instrument, including aspects like amplitude envelope components, definition, clarity, and spatial extent.
+- A trained listener's ability to discern subtle audio features and artifacts, which may go unnoticed by untrained ears, is crucial, especially in contexts like perceptual encoder algorithm development where identifying and addressing encoding shortcomings is essential.
+
 {{%/ note %}}
+
+---
