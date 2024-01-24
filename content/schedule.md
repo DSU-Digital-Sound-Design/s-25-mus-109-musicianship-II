@@ -54,25 +54,22 @@ author: ""
 
 - Chapter 7 - [Analysis of sound](../lectures/week-3/7-corey/)
 
-<!-- 
 ## Thursday
 
 - name that tune - 10 minutes
 - Quiz 2 practice - 10 minutes
   - **1 octave, 1 band, - 12 dB, pink noise, sound file, freq 500 to 2000 Hz**
+  - Same parameters as last week, but a different sound file: [Longview](../lectures/week-3/7-corey/04%20Longview.m4a)
   - Use Matching practice
-    - Practice with pink noise and set a timer for 3 minutes, then take a 2 minute break
+    - Practice with pink noise and set a timer for 3 minutes, then take a 2-minute break
     - repeat several times each day
     - do the same with the recording
-  - After you're comfortable with matching, move onto matching memory, then absolute ID
-- Finish - Chapter 7 - [Analysis of sound](../lectures/week-3/7-corey/) - 20 minutes
-- 7.2 Analysis Examples
-  - Sheryl Crow\: “Strong Enough”
-  - We'll listen to it in class, then read the analysis and talk more about it next week
+  - After you're comfortable with matching, move to matching memory, then absolute ID
+- Finish - Chapter 7 - [Analysis of sound](../lectures/week-3/7-corey/#/12) - 20 minutes
 
 
-> Homework: Read 7.2.1 Sheryl Crow: “Strong Enough” from the Corey and listen to the tracks Corey analyses. Be able to talk about your own impressions during next class.
-> Download the song [here](https://dakotastateuniversity-my.sharepoint.com/:u:/g/personal/tate_carson_dsu_edu/EYKzTsH0yZpAqSV6lweIGuEBLYJscKO9u-MGt7F7VXdzrQ?e=pzaDxe).
+<!-- 
+
 
 # Week 4 (1/29)
 
@@ -80,6 +77,9 @@ author: ""
 
 > Quiz 2
 
+- 7.2 Analysis Examples
+  - Sheryl Crow\: “Strong Enough”
+  - We'll listen to it in class, then read the analysis and talk more about it next week
 - discuss [Sheryl Crow: “Strong Enough”](../lectures/week-4/crow-strong-enough/)
 
 ## Thursday
