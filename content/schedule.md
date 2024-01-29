@@ -68,7 +68,6 @@ author: ""
 - Finish - Chapter 7 - [Analysis of sound](../lectures/week-3/7-corey/#/12) - 20 minutes
 
 
-<!-- 
 
 
 # Week 4 (1/29)
@@ -82,6 +81,7 @@ author: ""
   - We'll listen to it in class, then read the analysis and talk more about it next week
 - discuss [Sheryl Crow: “Strong Enough”](../lectures/week-4/crow-strong-enough/)
 
+<!-- 
 ## Thursday
 
 - _Name that tune_ - 10 minutes

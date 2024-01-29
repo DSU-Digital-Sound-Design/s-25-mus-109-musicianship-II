@@ -2,9 +2,42 @@
 title: "Sheryl Crow - Strong Enough Analysis"
 ---
 
-Parameters: overall bandwidth, spectral balance, auditory image, spatial impression, dynamic range, noise/distortion, balance of components
+**Parameters**: overall bandwidth, spectral balance, auditory image, spatial impression, dynamic range, noise/distortion, balance of components
 
-- Well balanced instrumental parts that complement each other
+#### Context and Initial Observations
+
+"Strong Enough," the third track from Sheryl Crow's album "Tuesday Night Music Club," stands out due to its well-balanced instrumental parts that complement each other, requiring numerous auditions to fully appreciate and identify all the sounds. These elements, along with the strategic panning of instruments, contribute to a musically and timbrally rich track.
+
+#### Detailed Sonic Analysis
+
+**Introduction**: The piece opens with an ambient synthesizer pad, followed by two acoustic guitars panned left and right, creating an auditory image that is less crisp than typical acoustic guitar recordings. This observation is supported by a spectrogram analysis showing limited high frequency content. For comparison, listen to other acoustic guitar recordings like [this one](https://cambridge-mt.com/rs2/lmp/acoustic-guitar-01/).
+
+**Vocals**: Crow's lead vocals, characterized by a dry and intense sound, offer a spatial impression with little reverb and a bright timbre. This sound contrasts with other vocal performances that use more reverb, such as: 
+
+- <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/tv/1635388716?i=1635388718"></iframe>
+
+**Instrumental Layers**:
+
+- A 12-string guitar, with a crisp and clear sound, contrasts with the softer tone of the other guitars, adding complexity to the track. Reference tracks for similar sounds include:
+    - <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/a-hazy-shade-of-winter/203303421?i=203304629"></iframe>
+    - <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/leaning-on-you/1550175828?i=1550175838"></iframe> 
+    - <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/best-post-60s-12-string-electric-guitar-songs/pl.u-BNA6rgXsAGgMo8"></iframe>
+  - The fretless electric bass adds depth to the lower pitches, offering a distinct sound compared to typical electric basses with frets or acoustic basses, reminiscent of the bass in 
+    - <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/graceland/529574560?i=529574613"></iframe>
+  - Hand percussion, panned left and right, enriches the spatial component of the stereo image, with distinct sounds in each speaker.
+- **Chorus and Beyond**: 
+  - The chorus introduces a dry ride cymbal and a subtly mixed, flute-like Hammond B3 sound.
+  - Post-chorus, a pedal steel guitar briefly adds to the sonic landscape before fading out.
+  - The bridge highlights bright, clear mandolin strums, and backing vocals, both panned to enhance the stereo effect, echoing Crow’s lead vocal.
+
+#### Reflections and Questions
+
+- The track's coherency, despite the variety of instruments and complex layering, prompts reflections on how different elements are blended and balanced to maintain clarity.
+- The thoughtful arrangement allows each instrument to contribute individually while ensuring collective harmony.
+
+In summary, "Strong Enough" is a meticulously crafted piece, blending a diverse range of sounds that complement each other, resulting in a cohesive and intriguing sonic experience. The track's complexity, highlighted by specific instrumental characteristics and strategic mixing decisions, underscores the importance of careful listening and analysis to fully grasp its depth.
+
+<!-- - Well balanced instrumental parts that complement each other
   - What exactly does this mean?
 - Numerous auditions of the track are required to identify all the sounds that are present.
   - Let's listen several times and try to pick out as many different elements as possible
@@ -33,4 +66,4 @@ Parameters: overall bandwidth, spectral balance, auditory image, spatial impress
 - a high, flutey Hammond B3 sound fairly low in the mix.
 - After the chorus a pedal steel enters and then fades away before the next verse.
 - The bridge features bright and clear, strumming mandolins that are panned left and right. Backing vocals, panned left and right, echo Crow’s lead vocal.
-- How does the song maintain a coherency despite the variety of instruments involved?
+- How does the song maintain a coherency despite the variety of instruments involved? -->
