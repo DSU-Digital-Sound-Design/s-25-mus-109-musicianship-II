@@ -81,6 +81,10 @@ author: ""
   - We'll listen to it in class, then read the analysis and talk more about it next week
 - discuss [Sheryl Crow: “Strong Enough”](../lectures/week-4/crow-strong-enough/)
 
+> Two volunteers for next week's journal presentations. You'll have about 15 minutes each to talk about your song analysis and answer questions.
+> 
+> More instructions on journals/presentations - [instructions](../assignments/journals/)
+
 <!-- 
 ## Thursday
 
@@ -107,8 +111,7 @@ author: ""
 
 > Quiz 2 retake
 
-- First student presentations
-  - More instructions on journals/presentations - [instructions](../assignments/journals/)
+
 
 ## Thursday
 

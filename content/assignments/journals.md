@@ -2,6 +2,73 @@
 title: "Sound Journals"
 ---
 
+# Course Assignment: Sound Journals
+
+## Objective
+In each journal, you will conduct a detailed aural analysis of a single commercially available audio production that you admire for its sound quality. This analysis aims to deepen your understanding of audio engineering principles and enhance your critical listening skills.
+
+## Assignment Details
+
+### Submission Requirements
+1. **Written Analysis**:
+   - Compose a three-paragraph analysis focusing on the recording and production aspects of your selected audio piece.
+
+2. **In-Class Presentation**:
+   - Two students will present each Tuesday.
+   - If it's your turn to present, prepare a 15-minute presentation to discuss your analysis in class.
+   - You should be ready to play a representative sound example from your selected piece during the presentation.
+
+### Purpose of the Assignment
+As budding audio professionals, sharpening your aural skills is crucial for mastering the art of sound production. Through regular analysis of various musical works, genres, and recordings, you'll learn to notice the nuanced differences in instruments, recording environments, microphones, and production techniques. These journals are designed to cultivate a professional understanding and appreciation of audio productions, enhancing your ability to discern and articulate the intricacies of sound.
+
+### Assignment Guidelines
+
+#### Selection of Music Piece
+- Choose a piece of music that you admire for its production quality.
+- Limit your discussion to a specific single piece, like a song, rather than an entire album.
+
+#### Sound Example
+- Provide a short audio clip (no longer than 30 seconds) that best represents the production quality of your chosen piece.
+- This example must be an uncompressed audio file.  See this website for some advice on where to look: 
+  - [Best Stores for Buying Digital Music You Can Keep Forever](https://www.cnet.com/tech/home-entertainment/best-sites-to-buy-mp3-and-digital-music-you-own-forever/)
+  - But note, you can't use MP3, because it's a lossy compressed format. 
+
+#### Focus of Discussion
+- Direct your analysis towards recording and production techniques rather than musical elements such as harmony or rhythm.
+
+#### Background Information
+Include essential details about the production in your analysis and presentation:
+- The recording's date and location.
+- Key individuals involved, including the performing musicians, producer, and engineer.
+
+#### Aural Analysis
+Conduct a thorough aural analysis of your chosen piece:
+- Reference the European Broadcast Union's [Assessment methods for the subjective evaluation of the quality of sound programme material – Music](https://tech.ebu.ch/docs/tech/tech3286.pdf) as a guide for your analysis.
+- Use Corey's explanations in Chapter 7 - Analysis of Sound from Electroacoustic Sources for inspiration.
+- Address specific aspects of the production, such as original use of sound parameters, standout production elements, or unique studio production techniques.
+- Conduct research or speculate creatively about how certain sounds or effects were achieved in the recording.
+
+### Presentation Format
+
+#### Scheduling
+- Two students will present each Tuesday.
+  
+#### Presentation Guidelines
+- Keep your presentation under 15 minutes.
+- Do not prepare slides.
+- Bring your written analysis and a device to play your sound example.
+- Start by playing the sound example, highlighting a particular aspect of the recording for the class to focus on, and use this to lead into your discussion.
+
+### Assessment Criteria
+Your assignment will be evaluated based on:
+- The creativity and detail in your analysis.
+- Your ability to articulate what you appreciate about the production.
+- The depth of your conclusions about how certain production qualities were achieved.
+- The thoroughness of your aural analysis, even if reliable information about the production is limited or unavailable.
+
+Complete this assignment with an inquisitive mind and a keen ear, embracing both your research and your own creative speculations to deliver a compelling and insightful analysis.
+
+<!-- 
 # Instructions
 
 Do an aural analysis of a commercially available audio production.
@@ -85,7 +152,7 @@ an aural analysis. Use The European Broadcast Union's [Assessment methods for th
 
 > Two students will present each Tuesday
 
-Your in-class presentation should strictly be no longer than 10 minutes, so be sure to be concise! Do _not_ prepare any slides for your presentation, but bring along your analysis and a device to play your
+Your in-class presentation should strictly be no longer than 15 minutes, so be sure to be concise! Do _not_ prepare any slides for your presentation, but bring along your analysis and a device to play your
 sound example from (laptop, smartphone, mobile music player).
 
 Start your presentation by playing that sound example, but only
@@ -100,4 +167,4 @@ analysis. Try to verbalize what exactly you like about the production, and be im
 have been achieved. While I want you to exhaust potential research
 sources (such as interviews with the respective producer, YouTube
 videos, etc.), a true lack of reliable information is not a problem per
-se. A thorough analysis _by ear_ should be the focus of your efforts.
+se. A thorough analysis _by ear_ should be the focus of your efforts. -->
