@@ -85,46 +85,35 @@ author: ""
 > 
 > More instructions on journals/presentations - [instructions](../assignments/journals/)
 
-<!-- 
 ## Thursday
 
 - _Name that tune_ - 10 minutes
 - Finish _Strong Enough_ analysis - 20 minutes
-- Quiz 2 practice - we need to spend more time on this; let's practice as a class
-  - **1 octave, 1 band, -12 dB, pink noise, sound file, freq 500 to 2000 Hz**
-  - **pre-practice** - listen to each option and try to order them in your head. Think about how each cut sounds and what changes between them. After you ears get used to the changes you can now move onto the practice routine.
-  - **30 minute practice routine**
-    - 3 minutes, pink noise, matching
-    - 3 minutes, sound file, matching
-    - 3 minutes rest
-    - 3 minutes, pink noise, matching memory
-    - 3 minutes, sound file, matching memory
-    - 3 minutes rest
-    - 3 minutes, pink noise, absolute ID
-    - 3 minutes, sound file, absolute ID
-    - 6 minutes rest
-    - repeat as often as you can
+- Quiz 3 practice
+  - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 500 to 4000 Hz**
 
 # Week 5 (2/5)
 
 ## Tuesday
 
-> Quiz 2 retake
+> Quiz 3 - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 500 to 4000 Hz**
 
-
+- First student journal presentations and discussion
+  - Karl 
+  - Owen 
 
 ## Thursday
 
 - Name that Tune!
 - [Peter Gabriel - In your eyes](../lectures/week-5/gabriel-in-your-eyes/) from Corey
-- Quiz 3 practice
-  - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 500 to 2000 Hz**
+- Quiz 4 Practice 
 
+<!-- 
 # Week 6 (2/12)
 
 ## Tuesday
 
-> Quiz 3
+> Quiz 4
 
 - Quiz 4 in class practice
   - What do you hear change in the recording?
