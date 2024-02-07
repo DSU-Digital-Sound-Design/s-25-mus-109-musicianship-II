@@ -104,6 +104,7 @@ author: ""
 
 ## Thursday
 
+- Who wants to present next week?
 - Name that Tune!
 - [Peter Gabriel - In your eyes](../lectures/week-5/gabriel-in-your-eyes/) from Corey
 -  Quiz 4 Practice: **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 250 to 4000 Hz** 
