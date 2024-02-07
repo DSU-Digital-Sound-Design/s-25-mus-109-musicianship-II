@@ -2,6 +2,39 @@
 title: "Peter Gabriel - In Your Eyes"
 ---
 
+## Analysis of Peter Gabriel's "In Your Eyes"
+
+### Credits
+
+- **Album:** [Gabriel, Peter. (1986). So.](https://www.allmusic.com/album/so-mw0000650174/credits)
+- **Produced by:** [Daniel Lanois](https://en.wikipedia.org/wiki/Daniel_Lanois#Production_credits) and Peter Gabriel.
+- **Engineered by:** [Kevin Killen](https://www.allmusic.com/artist/kevin-killen-mn0000070451/credits) and Daniel Lanois.
+- **Label:** The David Geffen Company.
+
+### Musical Composition and Sound Design
+
+The music starts with a blend of chorused piano sound, synthesizer pad, and percussion, creating a layered soundscape that is both rich and spatially expansive. Attention to the nuanced differences between the higher, shorter chorused piano sounds and the more sustained, quieter synth pad sounds adds depth.
+
+### Percussion and Rhythm
+
+The track includes varied percussion elements. The ability to distinguish between real drum set sounds and synthesized percussion enhances the listening experience. The stereo image is well crafted, with different percussion sounds, including a tabla-like sound on the left ([Solo Tabla Magic | Bickram Ghosh | Music of India - YouTube](https://www.youtube.com/watch?v=r31oe7Sm0vI)) and tom sounds on the right ([Peter Gabriel - In Your Eyes (Secret World Live) - YouTube](https://www.youtube.com/watch?v=evN6DIGPIJM)), creating a broad and immersive soundstage.
+
+### Bass, Drums, and Vocals
+
+After the initial setup, bass and drums enter, followed by Gabriel’s lead vocal, which is warm yet slightly gritty. The vocal's timbre is well-supported by the instrumental backdrop without being overshadowed. The bass line, possibly heavily compressed, lays a solid rhythmic foundation that complements the dynamic range of the track.
+
+### Technical Insights and Effects
+
+Distortion and compression play significant roles, adding texture and liveliness to the recording. The strategic use of these effects, starting with the slightly crunchy drum hit at the downbeat, contributes to the track's unique sonic character.
+
+### Special Contributions
+
+The piece is further enriched by a solo performance from Senegalese singer Youssou N’Dour at its conclusion, with vocals layered and panned to enhance spatial depth.  
+
+> Another example of his singing: [Youssou N'Dour - Immigres (Live in Athens 1987) - YouTube](https://www.youtube.com/watch?v=t975zX-pVlE)
+
+
+<!-- 
 ## Credits
 
 - [Gabriel, Peter. (1986). So.](https://www.allmusic.com/album/so-mw0000650174/credits)
@@ -37,4 +70,4 @@ title: "Peter Gabriel - In Your Eyes"
   - Distortion is present in a few sounds, starting with the slightly crunchy drum hit on the downbeat of the piece.
     - What do you think could have added to this distortion having looked at the credits.
   - What about the waveforms during the choruses?
-  - Other sounds are slightly distorted in places and compression effects are audible. This is certainly not the cleanest recording to be found, yet the distortion and compression artifacts work to add life and excitement to the recording.
+  - Other sounds are slightly distorted in places and compression effects are audible. This is certainly not the cleanest recording to be found, yet the distortion and compression artifacts work to add life and excitement to the recording. -->
