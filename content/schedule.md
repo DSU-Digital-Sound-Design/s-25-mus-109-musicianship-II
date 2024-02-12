@@ -110,20 +110,18 @@ author: ""
 -  Quiz 4 Practice: **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 250 to 4000 Hz** 
    - Use the above parameters to practice with the song "In Your Eyes" by Peter Gabriel
 
-<!-- 
 # Week 6 (2/12)
 
 ## Tuesday
 
 > Quiz 4
 
-- Quiz 4 in class practice
-  - What do you hear change in the recording?
-- Student journal presentation and discussion
+- Student journal presentations and discussion
+  - Ivan, Michael 
 
 > Quiz 4: **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 250 to 4000 Hz**
-> New song - Strong Enough
 
+<!-- 
 ## Thursday
 
 - name that tune - 10 min
