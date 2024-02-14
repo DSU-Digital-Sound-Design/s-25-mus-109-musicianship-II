@@ -121,16 +121,15 @@ author: ""
 
 > Quiz 4: **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 250 to 4000 Hz**
 
-<!-- 
 ## Thursday
 
 - name that tune - 10 min
-- [ABIT: A Better Interval Timer on the App Store](https://apps.apple.com/us/app/abit-workout-app/id1274605002)
-- Quiz 4 in class practice - 10 min
-  - What do you hear change in the recording?
-- Finish [Peter Gabriel - In your eyes](../lectures/week-6/gabriel-in-your-eyes/) from Corey
+- Volunteers for next week's journal presentations?
+- Quiz 5 in class practice - 10 min
+  - **1 octave, 1 band, +12 dB/- 12 dB, sound file, freq 250 to 8000 Hz**
+  - Use any sound file you want 
 - Moylan: 6 A System for Evaluating Sound - [Plotting Sources Against a Timeline](../lectures/week-6/moylan-6/)
-- Plotting instruments frequency content over time
+- Plotting an instrument's frequency content over time
   - pick a small section and choose a few important instruments
   - use band and bandpass filters in Reaper to find the frequency ranges.
   - or view spectral peaks and add spectral edits to turn down the gains of small portions of the audio. Use this data to make your graphs more accurate.
@@ -139,6 +138,7 @@ author: ""
 
 # Week 7 (2/19)
 
+<!-- 
 ## Tuesday
 
 - Quiz 6 - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 63 to 500 Hz**
