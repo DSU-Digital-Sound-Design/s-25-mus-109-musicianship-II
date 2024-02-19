@@ -138,19 +138,18 @@ author: ""
 
 # Week 7 (2/19)
 
-<!-- 
 ## Tuesday
 
-- Quiz 6 - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 63 to 500 Hz**
-  - Suggest a new song?
-- For future analysis make sure you're using catagories and definitions from this document
+- Quiz 5  - 10 min
+  - **1 octave, 1 band, +12 dB/- 12 dB, sound file, freq 250 to 8000 Hz**
+- Reminder: 
   - [EBU Tech 3286-1997 Subjective evaluation of quality - Music programme - tech3286.pdf](https://tech.ebu.ch/docs/tech/tech3286.pdf)
-  - Late journals are accepted, but will have points taken off.
-- Student journal presentation 4 and discussion
-  - Jake and another student
+- Student presentations
+  - Levi
+  - Mason
 
-> Quiz 5 **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 500 to 4000 Hz**
 
+<!-- 
 ## Thursday
 
 - No in person class
