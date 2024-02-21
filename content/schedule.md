@@ -149,14 +149,14 @@ author: ""
   - Mason
 
 
-<!-- 
 ## Thursday
 
-- No in person class
-  - practice for Quiz 6
-  - watch my video (posted to D2L) on plotting the frequency spectrum of a sound recording
-- Quiz 6 practice - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 63 to 500 Hz**
+- name that tune - 10 min
+- [Moylan: 7 Recording Analysis](../lectures/week-7/7-moylan-recording-analysis/)
+  - Timbre and Pitch in the Recording Domain
+- Quiz 6 practice - - **1 octave, 1 band, +12 dB/- 12 dB, sound file, freq 250 to 16000 Hz**
 
+<!-- 
 # Week 8 (2/26)
 
 ## Tuesday
