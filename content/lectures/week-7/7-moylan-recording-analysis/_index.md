@@ -117,6 +117,14 @@ Figure 7.1 illustrates the vibration of a string. The vibration (and standing wa
 
 ---
 
+## Interactive Activity
+
+- [Harmonics](https://alexanderchen.github.io/harmonics/)
+- [Overtone Series (aka Harmonic Series) in Music](https://muted.io/overtone-series/)
+- [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/)
+
+---
+
 ## The Role of Timbre in Pitch Perception
 
 - Timbre's crucial influence on pitch clarity
@@ -188,6 +196,13 @@ Figure 7.1 illustrates the vibration of a string. The vibration (and standing wa
 ---
 
 ![](fig7.3.png)
+
+---
+
+## Interactive Activity
+
+- [Tuning Systems: Equal Temperament vs Just Intonation](https://muted.io/12-tet-vs-just/)
+- [Overtones Spiral](https://suonoterapia.org/overtones/)
 
 ---
 
