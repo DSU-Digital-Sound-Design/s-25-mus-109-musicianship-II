@@ -156,15 +156,17 @@ author: ""
   - Timbre and Pitch in the Recording Domain
 - Quiz 6 practice - - **1 octave, 1 band, +12 dB/- 12 dB, sound file, freq 250 to 16000 Hz**
 
-<!-- 
 # Week 8 (2/26)
 
 ## Tuesday
 
-- Jake student presentation
+- Presentations 
+  - David 
+  - Karl 
 
-> Quiz 6 - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 63 to 500 Hz**
+> Quiz 6 -  **1 octave, 1 band, +12 dB/- 12 dB, sound file, freq 250 to 16000 Hz**
 
+<!-- 
 ## Thursday
 
 - name that tune - 10 min
