@@ -222,3 +222,140 @@ Figure 7.1 illustrates the vibration of a string. The vibration (and standing wa
 
 {{%/ note %}}
 
+---
+
+## Pitch and Frequency in Recording Analysis
+
+- Pitch as a perceptual phenomenon
+- Frequency as a measurable scientific concept
+- The relationship between pitch and frequency
+- The significance of pitch and frequency in recording
+
+{{% note %}}
+
+- Pitch, in the context of recording, is a psychological experience influenced by frequency vibrations, distinct from its musical organization. It necessitates human perception to be recognized and judged.
+- Frequency involves periodic oscillations and can be quantified without the need for human perception. It represents the physical aspect of sound waves, unlike pitch, which is more about the listener's interpretation.
+- The interplay between pitch and frequency is crucial in understanding sound in recording. Pitch is formed by the relationships within the frequency spectrum, shaping our perception of sound's timbre and octave replication.
+- Recognizing the distinction and connection between pitch and frequency enriches recording analysis, aiding in the comparison with musical contexts, and enhancing understanding of sound's spatial relationships and timbral balance.
+
+{{%/ note %}}
+
+---
+
+## Pitch/Frequency Registers 
+
+- Division of the hearing range into pitch/frequency registers
+- The purpose and application of pitch/frequency registers
+- Learning to recognize pitch/frequency register boundaries
+- Utilization of pitch/frequency registers in analysis
+
+{{% note %}}
+
+- The hearing range is segmented into pitch/frequency registers to facilitate the identification and evaluation of sounds within specific pitch/frequency content. This aids in precisely placing sounds within a track's range.
+- These registers are designed to make recognizing pitch/frequency levels easier and to serve as a reference for developing the skill of identifying the boundaries between registers. This concept is vital for various analytical processes in music and recording.
+- Recognizing the boundaries between pitch/frequency registers, which are transition areas rather than strict separations, is crucial. It helps in the accurate categorization and analysis of sound.
+- Pitch/frequency registers are extensively used in sound analysis, including pitch area, pitch density, and timbral balance assessments. Understanding these registers allows for a nuanced analysis of sound quality, environmental characteristics, and the spectral content of recordings.
+
+{{%/ note %}}
+
+---
+
+<img src="fig7.4.png" width="80%">
+
+---
+
+## Understanding Pitch Areas 
+
+- Concept of pitch areas in sound analysis
+- Recognition of primary and secondary pitch areas
+- The role of pitch areas in timbral balance
+- Influence of performance intensity on pitch areas
+
+{{% note %}}
+
+- Pitch areas represent bands within which sounds, particularly from unpitched percussion, manifest dominant frequency content, distinguishing them by their perceived 'height' in pitch. 
+- A sound's spectrum may include a primary pitch area, which is the most pronounced, and one or more secondary pitch areas that are less dominant. 
+- Identifying pitch areas within sounds contributes significantly to analyzing and appreciating the textures of timbral balance in music and recordings. It allows for a nuanced appreciation of how these sounds interact within a composition's overall sound spectrum.
+- The dynamic relationships between primary and secondary pitch areas, and their variations with changes in performance intensity, highlight the importance of intensity in shaping the timbre of both unpitched and pitched sounds. This underscores the role of performance dynamics in sound analysis.
+
+{{%/ note %}}
+
+---
+
+## Analyzing Pitch Areas of Unpitched Sounds
+
+- Graphing and defining pitch areas
+- Characteristics of primary and secondary pitch areas
+- Impact of performance intensity on pitch areas
+- Generalization in analyzing pitch area content
+
+{{% note %}}
+
+- Pitch areas of unpitched sounds can be graphically represented by delineating the width and register of the primary pitch area and noting the density of pitch/frequency activity within it. This establishes a foundation for detailed sound analysis.
+- Secondary pitch areas are identified by their boundary frequencies/pitches and the density of pitch/frequency activity within these areas. Understanding these variables enhances the analysis of a sound's complexity and its role within a composition.
+- The dynamic relationships between secondary pitch areas and the primary pitch area's performance intensity offer insights into how variations in intensity affect the perceived pitch and timbre of sounds. This aspect is crucial for a nuanced understanding of sound properties.
+- Analyzing pitch areas involves generalizing certain aspects such as time/temporal characteristics, frequency/pitch content, and loudness levels. This approach simplifies the complex nature of sounds into more manageable segments for analysis, focusing on the overall impression rather than minute details.
+
+{{%/ note %}}
+
+---
+
+## Analyzing Pitch Areas of Unpitched Sounds
+
+- Generalization of pitch area content
+- Summarizing sound characteristics
+- Simplification for initial observations
+- Pedagogical advantages of the approach
+
+{{% note %}}
+
+- By generalizing pitch area content, the approach simplifies the analysis by focusing on time/temporal characteristics, frequency/pitch content, and loudness levels, consolidating the entire sound duration into a single impression. This method overlooks changes over time, providing a broad overview instead.
+- The method involves summarizing key sound characteristics — time, frequency/pitch, and loudness — into an overall impression. This condenses complex frequency and loudness information, facilitating a general understanding of the sound's timbre.
+- Simplification through this approach aids initial observations, making it easier to grasp the concept of pitch areas. It focuses on the most apparent aspects of the sound's spectrum, setting the stage for more detailed analysis.
+- This pedagogical approach helps learners to initially distinguish pitch areas more easily than individual frequencies. It serves as an entry point to deeper timbral analysis by emphasizing the overall quality and boundaries of pitch areas, paving the way for identifying specific frequencies within.
+
+{{%/ note %}}
+
+---
+
+## Generalizing Density and Loudness in Pitch Areas
+
+- Simplified observation scale
+- Relative density levels
+- Interpretation and application
+- Transition from unpitched to pitched sounds
+
+{{% note %}}
+
+- Observations within pitch areas simplify the analysis by generalizing the amount of density and loudness levels. This approach facilitates quicker, albeit broad, assessments of the sound's characteristics, laying the groundwork for more nuanced analysis if needed.
+- Five levels of density—very dense, dense, moderately dense, moderately sparse, and sparse—provide a framework for evaluating the concentration of partials within a pitch area. This scale ranges from a sound's opaque quality that can mask other sounds to a translucent quality where the fundamental tone begins to emerge.
+- The use of subjective terms like "very dense" or "sparse" to describe the density of pitch areas, though imprecise, offers a practical method for quickly grasping the general texture of the sound. This approach requires some degree of listening skill and conceptual understanding but can be learned and applied with experience.
+- This generalized method allows for the identification of transitions within sounds, from unpitched to pitched, as changes in density and the emphasis on harmonics reveal the underlying pitch characteristics. It highlights how variations in density can influence the perception of a sound's pitch quality.
+
+{{%/ note %}}
+
+---
+
+![](table7.1.png)
+
+---
+
+## Graphical Analysis of Pitch Areas in Drum Sounds
+
+- Graphical representation of drum sounds
+- Dynamic and density variations with performance intensity
+- Primary and secondary pitch areas
+- Application in timbral analysis and recording
+
+{{% note %}}
+
+- The pitch area graph visually represents individual drum sounds, highlighting the primary pitch area, secondary pitch areas, and their dynamic relationships to performance intensity. It pinpoints specific moments in a track, focusing on a single drum hit as the sound object for analysis.
+- Changes in loudness and density within pitch areas are observable with variations in the drum's striking intensity. These variations influence the drum's timbre, demonstrating how performance intensity directly affects the sound's spectral characteristics.
+- The graph distinguishes primary pitch areas (labeled with 'P') from secondary pitch areas (indicated by numbers reflecting relative loudness levels). This visualization aids in understanding the complex spectral content of drum sounds, including their bandwidth and the distribution of energy within specified ranges.
+- This analytical approach is valuable for exploring the timbre of drums and other unpitched sounds within a recording. It enables a deeper understanding of how these sounds contribute to the overall timbral balance of a track, offering insights into the textural and spectral composition of the music.
+
+{{%/ note %}}
+
+---
+
+![](fig7.5.png)
