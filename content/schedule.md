@@ -169,8 +169,11 @@ author: ""
 ## Thursday
 
 - name that tune - 10 min
+- Volunteers to present next week?
+- Let's pause the quizzes for a bit and focus on the next journal
 - [Moylan: 7 Recording Analysis](../lectures/week-7/7-moylan-recording-analysis/)
   - Timbre and Pitch in the Recording Domain
+  - Make a pitch area analysis graph for the next journal
 
 <!-- 
 # Week 9 (3/4)
