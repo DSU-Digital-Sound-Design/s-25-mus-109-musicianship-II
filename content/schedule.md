@@ -175,20 +175,14 @@ author: ""
   - Timbre and Pitch in the Recording Domain
   - Make a pitch area analysis graph for the next journal
 
-<!-- 
 # Week 9 (3/4)
 
 ## Tuesday
 
-- Sound opportunities
-  - Cyberology Podcast - editing and recording
-  - Mastersingers - record one concert: the dress rehearsal is at the church on Thursday, March 30 at 7 p.m., and the concert on Sunday, April 2 at 4:30 p.m.
-- Show exporting Reaper projects with the song
-- Student journal presentations
-- See Week 7 on D2L for two videos on completing your sound journals.
+- Student journal presentations 
 
-> Quiz 7 - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 2000 - 16000 Hz**
 
+<!-- 
 ## Thursday
 
 
