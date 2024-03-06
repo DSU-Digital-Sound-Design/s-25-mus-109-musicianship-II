@@ -182,21 +182,15 @@ author: ""
 - Student journal presentations 
 
 
-<!-- 
 ## Thursday
 
-
-  - it's been a minute
-- The next journal's will be due in a week from Tuesday. This should give you more time to do the graphical analysis. I'll post full instructions by Friday.
-- The grades were pretty good, so let's move onto the next frequency group:
-- Quiz 7 practice - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 2000 - 16000 Hz**
 - [The Illusion of Space as an Element of Recording](../lectures/week-8/space/)
   - For the next analysis, focus on the spatial and stereo impression.
   - Show some examples of reverb (Dragonfly Reverb) and panning settings in Reaper.
-- Finish: [The Illusion of Space as an Element of Recording](../lectures/week-9/space-2/)
-- Quiz 8 practice - all ISO frequencies, 12 dB
+- [The Illusion of Space as an Element of Recording](../lectures/week-9/space-2/)
 - After the break we move onto Dynamics and Reverb, three levels of difficulty each
 
+<!-- 
 # Week 10 (3/11)
 
 - Spring Break - No Classes
