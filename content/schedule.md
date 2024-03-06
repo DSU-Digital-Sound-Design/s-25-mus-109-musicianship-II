@@ -184,13 +184,10 @@ author: ""
 
 ## Thursday
 
+- Quiz 7 Reverb - Decay time and Pre-delay practice 
 - [The Illusion of Space as an Element of Recording](../lectures/week-8/space/)
   - For the next analysis, focus on the spatial and stereo impression.
-  - Show some examples of reverb (Dragonfly Reverb) and panning settings in Reaper.
-- [The Illusion of Space as an Element of Recording](../lectures/week-9/space-2/)
-- After the break we move onto Dynamics and Reverb, three levels of difficulty each
 
-<!-- 
 # Week 10 (3/11)
 
 - Spring Break - No Classes
@@ -199,14 +196,15 @@ author: ""
 
 ## Tuesday
 
+- Quiz 7 Reverb - Decay time and Pre-delay
 - Student journal presentations
 
+<!-- 
 > Quiz 8
 
 ## Thursday
 
-- name that tune
-- Practice All ISO frequencies quiz
+- [The Illusion of Space as an Element of Recording](../lectures/week-9/space-2/)
 - Finish: [The Illusion of Space as an Element of Recording](../lectures/week-9/space-2/)
 - More on creating the charts
 - more listening for spatial information
