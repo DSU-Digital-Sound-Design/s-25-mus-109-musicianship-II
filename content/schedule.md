@@ -198,6 +198,7 @@ author: ""
 
 - Quiz 7 Reverb - Decay time and Pre-delay
 - Student journal presentations
+  - Volunteers?
 
 <!-- 
 > Quiz 8
