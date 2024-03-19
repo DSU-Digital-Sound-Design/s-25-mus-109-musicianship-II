@@ -197,19 +197,16 @@ author: ""
 ## Tuesday
 
 - Quiz 7 Reverb - Decay time and Pre-delay
-- Student journal presentations
-  - Volunteers?
 
-<!-- 
+
 > Quiz 8
 
 ## Thursday
 
-- [The Illusion of Space as an Element of Recording](../lectures/week-9/space-2/)
-- Finish: [The Illusion of Space as an Element of Recording](../lectures/week-9/space-2/)
-- More on creating the charts
-- more listening for spatial information
+- Student journal presentations
+  - Ivan and Michael 
 
+<!-- 
 # Week 12 (3/25)
 
 ## Tuesday
@@ -219,6 +216,11 @@ author: ""
 
 ## Thursday
 
+
+- [The Illusion of Space as an Element of Recording](../lectures/week-9/space-2/)
+- Finish: [The Illusion of Space as an Element of Recording](../lectures/week-9/space-2/)
+- More on creating the charts
+- more listening for spatial information
 - song pop party
 - Quiz 9 practice - Dynamic range compression
   - Matching Memory, level 1, Attack, release, and ratio times separately
