@@ -203,8 +203,12 @@ author: ""
 
 ## Thursday
 
+- Volunteers for next week's journal presentations?
+  - Going back to Tuesday
 - Student journal presentations
   - Ivan and Michael 
+
+> No quiz on Tuesday. 
 
 <!-- 
 # Week 12 (3/25)
