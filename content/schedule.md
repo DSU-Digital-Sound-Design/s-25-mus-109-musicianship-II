@@ -210,14 +210,15 @@ author: ""
 
 > No quiz on Tuesday. 
 
-<!-- 
 # Week 12 (3/25)
 
 ## Tuesday
 
-- Quiz 8 - all ISO frequencies, 12 dB
 - Student journal presentation 8 and discussion
+  - Levi
+  - David 
 
+<!-- 
 ## Thursday
 
 
