@@ -216,21 +216,17 @@ author: ""
 
 - Student journal presentation 8 and discussion
   - Levi
-  - David 
 
-<!-- 
 ## Thursday
 
 
 - [The Illusion of Space as an Element of Recording](../lectures/week-9/space-2/)
-- Finish: [The Illusion of Space as an Element of Recording](../lectures/week-9/space-2/)
 - More on creating the charts
 - more listening for spatial information
 - song pop party
 - Quiz 9 practice - Dynamic range compression
   - Matching Memory, level 1, Attack, release, and ratio times separately
   - practice each parameter with different sounds
-  - lets do a practice quiz on Tuesday
 
 # Week 13 (4/1)
 
@@ -238,8 +234,10 @@ author: ""
 
 - Dynamic range - practice and practice quiz
 - Student journal presentation 9 and discussion
-  - Two more presentations on Spatial image with diagrams
+  -  David 
 
+
+<!-- 
 ## Thursday
 
 - Song pop party
