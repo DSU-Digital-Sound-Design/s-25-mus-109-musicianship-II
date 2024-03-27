@@ -198,7 +198,6 @@ author: ""
 
 - Quiz 7 Reverb - Decay time and Pre-delay
 
-
 > Quiz 8
 
 ## Thursday
@@ -219,22 +218,19 @@ author: ""
 
 ## Thursday
 
-
 - [The Illusion of Space as an Element of Recording](../lectures/week-9/space-2/)
-- More on creating the charts
-- more listening for spatial information
-- song pop party
-- Quiz 9 practice - Dynamic range compression
-  - Matching Memory, level 1, Attack, release, and ratio times separately
-  - practice each parameter with different sounds
+- Quiz 8 practice - Reverb 
+  - Decay time & Pre-delay time & Mix 
 
 # Week 13 (4/1)
 
 ## Tuesday
 
-- Dynamic range - practice and practice quiz
+- Quiz 8 - Reverb
+  - Decay time & Pre-delay time & Mix
 - Student journal presentation 9 and discussion
   -  David 
+  -  
 
 
 <!-- 
