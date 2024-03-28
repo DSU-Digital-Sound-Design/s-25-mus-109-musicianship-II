@@ -230,7 +230,7 @@ author: ""
   - Decay time & Pre-delay time & Mix
 - Student journal presentation 9 and discussion
   -  David 
-  -  
+  -  Karl
 
 
 <!-- 
