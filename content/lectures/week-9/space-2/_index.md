@@ -26,17 +26,19 @@ separator = "##"
 
 ---
 
-## Musical Examples of Sound Source Motion
-
-- "Here Comes the Sun" by The Beatles: Moog synthesizer movement
-- "You Never Give Me Your Money" by The Beatles: Vocal image widening and moving
-- "In Your Eyes" by Peter Gabriel: Rhythmic spatialization
+- "Here Comes the Sun" by The Beatles
+  - <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/here-comes-the-sun/1441164426?i=1441164589"></iframe>
+- "You Never Give Me Your Money" by The Beatles
+  - <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/you-never-give-me-your-money-2019-mix/1474815798?i=1474815900"></iframe>
+- "Akoma" by Jlin feat. Philip Glass
+  - <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/the-precision-of-infinity-feat-philip-glass/1718795163?i=1718796105"></iframe>
 
 {{% note %}}
 
 - In "Here Comes the Sun," a Moog synthesizer sound travels from the left to the center of the stereo field, demonstrating controlled movement over four beats. This example highlights how motion can be precisely planned and executed within a track to create a sense of dynamism and change.
-- "You Never Give Me Your Money" features the lead vocal starting as a narrow image, then widening and moving across the stereo field. This gradual transition contributes to a dynamic and evolving sound landscape, showcasing the effective use of spatial manipulation in audio production.
-- Peter Gabriel's "In Your Eyes" employs rhythmic spatialization, where percussion and drum sounds move across the sound stage, creating a rich rhythmic pattern. This technique demonstrates how movement between sounds can add a complex spatial dimension to the rhythm, enhancing the overall listening experience.
+- "You Never Give Me Your Money" features the lead vocal starting as a narrow image, then widening and moving across the stereo field. 
+  - "Returning to Abbey Road, the lead vocal in “You Never Give Me Your Money” begins the song as a narrow image. It soon begins to gradually grow wider, until it occupies a significant portion of the stereo field; the sound’s environment contributes to this change with its gradual addition and varying qualities of cues and its changing proportion with the direct source sound. In the second section of the track, a new lead vocal sound gradually moves from the right to the left side of the sound stage; throughout the movement, the spread image maintains a similar size."
+- In "Akoma," by Jlin, we hear a full rhythmic picture through spatlaized sounds that each have their place in the soundfield. 
 
 {{%/ note %}}
 
@@ -66,9 +68,10 @@ separator = "##"
 
 ---
 
-Stereo Image Graph Example
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="75" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/a-day-in-the-life/1441164604?i=1441165168"></iframe>
 
 <img src="f8.5.png" width="75%">
+
 
 {{% note %}}
 
@@ -81,7 +84,7 @@ Stereo Image Graph Example
 
 ---
 
-Ways of writing about stere image:
+Ways of writing about stereo image:
 
 ![](t8.3-1.png)
 
