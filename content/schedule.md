@@ -233,10 +233,10 @@ author: ""
   -  Karl
 
 
-<!-- 
 ## Thursday
 
 - Song pop party
+- [Loudness, the Confluence of Domains and Deep Listening](../lectures/week-12/loudness/)
 - Review the rest of the semester
   - schedule presentations
 - Quiz 9 practice - Compression
@@ -245,13 +245,8 @@ author: ""
   - Full mix - MS1263_Mix1Full_MR1006.wav OR MS0908_Drums1NoComp_MR1001.wav
     - 3 questions for each: attack, release, ratio
 
-> [Final Paper](../assignments/final-paper/) - DUE Friday April 28th
->
-> [Final Presentations](../assignments/final-presentation/) - April 20, 25, 27
->
-> Final Exam - Thursday, May 4th, 10:30 am - 12:30 pm
-> Will include WebTET exercises for parametric equalization, dynamic compression, and reverberation.
 
+<!-- 
 # Week 14 (4/8)
 
 ## Tuesday
@@ -261,6 +256,12 @@ author: ""
   - Nick
 
 > Quiz 9 - Compression
+> [Final Paper](../assignments/final-paper/) - DUE Friday April 28th
+>
+> [Final Presentations](../assignments/final-presentation/) - April 20, 25, 27
+>
+> Final Exam - Thursday, May 4th, 10:30 am - 12:30 pm
+> Will include WebTET exercises for parametric equalization, dynamic compression, and reverberation.
 
 ## Thursday
 
