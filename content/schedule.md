@@ -249,8 +249,8 @@ author: ""
 
 - Quiz 9 - Compression
 - Student journal presentation and discussion
-  - ?
-  - ?
+  - Owen
+  - Mason 
 
 > [Final Paper](../assignments/final-paper/) - DUE Friday April 27th
 >
