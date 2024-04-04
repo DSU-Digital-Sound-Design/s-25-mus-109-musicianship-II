@@ -262,12 +262,13 @@ author: ""
 ## Thursday
 
 - Song pop party
-- Reverb WebTET practice
+- Compression WebTET practice
 
 # Week 15 (4/15)
 
 ## Tuesday
 
+- Quiz 10 - Compression 
 - Student journal presentation
   - Karl  
 
