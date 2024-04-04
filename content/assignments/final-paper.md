@@ -2,17 +2,17 @@
 title: "Final Analysis Paper Instructions"
 ---
 
-This paper will compare and contrast the recording from previous five listening journals. Pick at least three to discuss in the paper. Topics can include anything we've covered in the semester so far. For a review of analysis topics see this presentation: [Analysis of sound.](https://dsu-digital-sound-design.github.io/s-23-mus-109-musicianship-II/lectures/week-3/7-corey/#/)
+This paper will compare and contrast the recordings from your previous five listening journal entries. Select at least three recordings to discuss in the paper. You can explore any topics we've covered in the semester so far. For a review of potential analysis topics, refer to this presentation: [Analysis of Sound](https://dsu-digital-sound-design.github.io/s-23-mus-109-musicianship-II/lectures/week-3/7-corey/#/).
 
-You may reuse and revise some of your original writing. Your earlier analysis should be heavily revised with your current understanding at this point in the class. Create diagrams to demonstrate the similarities and differences between your chosen recordings. You should create at least two different types of diagrams (frequency plot, holistic sound stage, stereo image graph) and several versions to visually show differences between the recordings. Aim for around six diagrams total.
+You may reuse and revise portions of your original writing from the listening journal entries. However, your earlier analyses should be substantially revised to reflect your current understanding at this point in the class. Create diagrams to visually demonstrate the similarities and differences between your chosen recordings. You should create at least two different types of diagrams (e.g., frequency plot, holistic sound stage, stereo image graph) and several versions to visually illustrate the differences between the recordings. Aim for a total of around six diagrams.
 
-Reference these diagrams in the text of your paper using figure numbers. Also, when describing anything in your paper include a reference to the time in the recording.
+In the text of your paper, reference these diagrams using figure numbers. Additionally, when describing any aspect of the recordings, include a reference to the specific time in the recording.
 
 Requirements:
 
-- Length - 1,000 words
-- Figures - Two diagram types from the three we learned (Frequency plot, Holistic sound stage, Stereo image graph)
-- Uncompressed (WAV, FLAC, etc) recordings used for analysis—no MP3s
+- Length: 1,000 words
+- Figures: Three diagram types from the four we learned (Frequency plot, Holistic sound stage, Stereo image graph, and loudness graph)
+- Uncompressed (WAV, FLAC, etc.) recordings used for analysis—no MP3s
 - Reaper files used for analysis
 
-> DUE April 28th
+Due Date: April 27th

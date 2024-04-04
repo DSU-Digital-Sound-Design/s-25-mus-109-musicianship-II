@@ -242,25 +242,21 @@ author: ""
 - Quiz 9 practice - Compression
   - Snare drum
     - 3 questions for each: attack, release, ratio
-  - Full mix - MS1263_Mix1Full_MR1006.wav OR MS0908_Drums1NoComp_MR1001.wav
-    - 3 questions for each: attack, release, ratio
 
-
-<!-- 
 # Week 14 (4/8)
 
 ## Tuesday
 
+- Quiz 9 - Compression
 - Student journal presentation and discussion
-  - Calvin
-  - Nick
+  - ?
+  - ?
 
-> Quiz 9 - Compression
-> [Final Paper](../assignments/final-paper/) - DUE Friday April 28th
+> [Final Paper](../assignments/final-paper/) - DUE Friday April 27th
 >
 > [Final Presentations](../assignments/final-presentation/) - April 20, 25, 27
 >
-> Final Exam - Thursday, May 4th, 10:30 am - 12:30 pm
+> Final Exam - Thursday, May 2th, 10:30 am - 12:30 pm
 > Will include WebTET exercises for parametric equalization, dynamic compression, and reverberation.
 
 ## Thursday
@@ -303,4 +299,3 @@ author: ""
 > Exam - Thursday, May 2, 10:30 am – 12:30 pm 
 > 
 
- -->
