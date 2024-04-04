@@ -269,33 +269,28 @@ author: ""
 ## Tuesday
 
 - Student journal presentation
-  - Jake
-  - Orlando
-- Reverb WebTET practice
+  - Karl  
 
 ## Thursday
 
 - Final Journal Presentations
-  - Orlando
-  - Wiley
-  - Jake
+  - Ivan 
+  - David
 
 # Week 16 (4/22)
 
 ## Tuesday
 
 - Final Journal Presentations
-  - Sam
-  - Noah
-  - Nick
+  - Levi
+  - Mason
 
 ## Thursday
 
 - Final Journal Presentations
-  - Calvin
-  - Hunter
-  - Abbie
+  - Owen 
+  - Michael 
 
 > Exam - Thursday, May 2, 10:30 am – 12:30 pm 
-> 
+
 
