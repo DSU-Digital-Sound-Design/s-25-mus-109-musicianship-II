@@ -261,6 +261,7 @@ author: ""
 
 ## Thursday
 
+- Review final presentation dates - are these all correct? 
 - Some ear training in the studio with microphone types and positions. 
   - We'll record dialogue with different mics and positions and then try to identify them in a blind test at the end of class.
 
