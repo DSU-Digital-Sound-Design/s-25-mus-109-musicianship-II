@@ -261,14 +261,13 @@ author: ""
 
 ## Thursday
 
-- Song pop party
-- Compression WebTET practice
+- Some ear training in the studio with microphone types and positions. 
+  - We'll record dialogue with different mics and positions and then try to identify them in a blind test at the end of class.
 
 # Week 15 (4/15)
 
 ## Tuesday
 
-- Quiz 10 - Compression 
 - Student journal presentation
   - Karl  
 
