@@ -6,7 +6,7 @@ author: ""
 
 {{< toc >}}
 
-# Week 1 (1/8)
+# Week 1 (1/13)
 
 ## Tuesday
 
@@ -25,19 +25,21 @@ author: ""
 - `Quiz 0` - 1 octave, 1 band, + 12 dB, sound file, freq 500 to 2000 Hz
   - ISO octaves - 63, 125, 250, 500, 1000, 2000, 4000, 8000, and 16000 Hz
   - Click [here](../lectures/week-1/quiz-0-answers/) to check your answers after the prelim quiz is over.
-
-# Week 2 (1/15)
+  
+<!-- 
+# Week 2 (1/20)
 
 ## Tuesday
+
+- No class - (out of town for Professional Development)
+
+## Thursday
 
 - Play "Name That Tune" with Song Pop Party. The faster you answer, the more you're using timbre to figure it out rather than melody.
 - [Spectral Balance and Equalization](../lectures/week-2/2-corey/)
   - Shaping Spectral Balance
   - Types of Filters and
   - Getting Started with Practice
-
-## Thursday
-
 - Finish [Spectral Balance and Equalization](../lectures/week-2/2-corey/#/9)
   - Working with the EQ Practice Module
   - Quiz 1 practice - the first real quiz will be on Tuesday
@@ -45,7 +47,7 @@ author: ""
   - Practice singing vowel sounds as a class!
   - practice with other music from that Corey list?
 
-# Week 3 (1/22)
+# Week 3 (1/27)
 
 ## Tuesday
 
@@ -70,7 +72,7 @@ author: ""
 
 
 
-# Week 4 (1/29)
+# Week 4 (2/3)
 
 ## Tuesday
 
@@ -92,7 +94,7 @@ author: ""
 - Quiz 3 practice
   - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 500 to 4000 Hz**
 
-# Week 5 (2/5)
+# Week 5 (2/10)
 
 ## Tuesday
 
@@ -110,7 +112,7 @@ author: ""
 -  Quiz 4 Practice: **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 250 to 4000 Hz** 
    - Use the above parameters to practice with the song "In Your Eyes" by Peter Gabriel
 
-# Week 6 (2/12)
+# Week 6 (2/17)
 
 ## Tuesday
 
@@ -136,7 +138,7 @@ author: ""
   - [my example](../lectures/week-6/moylan-6/InYourEyesAnalysis.drawio.png)
   - Follow along with me to make another graph for a different section of _In Your Eyes_
 
-# Week 7 (2/19)
+# Week 7 (2/24)
 
 ## Tuesday
 
@@ -156,7 +158,7 @@ author: ""
   - Timbre and Pitch in the Recording Domain
 - Quiz 6 practice - - **1 octave, 1 band, +12 dB/- 12 dB, sound file, freq 250 to 16000 Hz**
 
-# Week 8 (2/26)
+# Week 8 (3/3)
 
 ## Tuesday
 
@@ -175,27 +177,27 @@ author: ""
   - Timbre and Pitch in the Recording Domain
   - Make a pitch area analysis graph for the next journal
 
-# Week 9 (3/4)
+# Week 9 (3/10)
+
+- Spring Break - No Classes
+
+# Week 10 (3/17)
 
 ## Tuesday
 
 - Student journal presentations 
 
-
 ## Thursday
+
+- No Class 3/20 for MoxSonic Conference Festival Travel
+
+# Week 11 (3/24)
+
+## Tuesday
 
 - Quiz 7 Reverb - Decay time and Pre-delay practice 
 - [The Illusion of Space as an Element of Recording](../lectures/week-8/space/)
   - For the next analysis, focus on the spatial and stereo impression.
-
-# Week 10 (3/11)
-
-- Spring Break - No Classes
-
-# Week 11 (3/18)
-
-## Tuesday
-
 - Quiz 7 Reverb - Decay time and Pre-delay
 
 > Quiz 8
@@ -209,7 +211,7 @@ author: ""
 
 > No quiz on Tuesday. 
 
-# Week 12 (3/25)
+# Week 12 (3/31)
 
 ## Tuesday
 
@@ -222,7 +224,7 @@ author: ""
 - Quiz 8 practice - Reverb 
   - Decay time & Pre-delay time & Mix 
 
-# Week 13 (4/1)
+# Week 13 (4/7)
 
 ## Tuesday
 
@@ -243,7 +245,7 @@ author: ""
   - Snare drum
     - 3 questions for each: attack, release, ratio
 
-# Week 14 (4/8)
+# Week 14 (4/14)
 
 ## Tuesday
 
@@ -265,7 +267,7 @@ author: ""
 - Some ear training in the studio with microphone types and positions. 
   - We'll record dialogue with different mics and positions and then try to identify them in a blind test at the end of class.
 
-# Week 15 (4/15)
+# Week 15 (4/21)
 
 ## Tuesday
 
@@ -278,7 +280,7 @@ author: ""
   - Ivan 
   - David
 
-# Week 16 (4/22)
+# Week 16 (4/28)
 
 ## Tuesday
 
@@ -292,6 +294,6 @@ author: ""
   - Owen 
   - Michael 
 
-> Exam - Thursday, May 2, 10:30 am – 12:30 pm 
+> Exam - May 8th 10:30 AM – 12:30 PM
 
-
+ -->
