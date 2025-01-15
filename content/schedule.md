@@ -23,16 +23,14 @@ author: ""
 
 - [Corey, Chapter 1: Listening](../lectures/week-1/1-corey/)
 - `Quiz 0` - 1 octave, 1 band, + 12 dB, sound file, freq 500 to 2000 Hz
-  - ISO octaves - 63, 125, 250, 500, 1000, 2000, 4000, 8000, and 16000 Hz
-  - Click [here](../lectures/week-1/quiz-0-answers/) to check your answers after the prelim quiz is over.
-  
-<!-- 
+
 # Week 2 (1/20)
 
 ## Tuesday
 
 - No class - (out of town for Professional Development)
 
+<!-- 
 ## Thursday
 
 - Play "Name That Tune" with Song Pop Party. The faster you answer, the more you're using timbre to figure it out rather than melody.
