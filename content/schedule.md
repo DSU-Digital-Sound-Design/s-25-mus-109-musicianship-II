@@ -30,21 +30,19 @@ author: ""
 
 - No class - (out of town for Professional Development)
 
-<!-- 
 ## Thursday
 
-- Play "Name That Tune" with Song Pop Party. The faster you answer, the more you're using timbre to figure it out rather than melody.
 - [Spectral Balance and Equalization](../lectures/week-2/2-corey/)
   - Shaping Spectral Balance
   - Types of Filters and
   - Getting Started with Practice
-- Finish [Spectral Balance and Equalization](../lectures/week-2/2-corey/#/9)
-  - Working with the EQ Practice Module
+- Working with the EQ Practice Module
   - Quiz 1 practice - the first real quiz will be on Tuesday
     - 1 octave, 1 band, + 12 dB, pink noise and [sound file](../lectures/week-2/kick-it.m4a) (the "can I kick it" loop), freq 500 to 2000 Hz
   - Practice singing vowel sounds as a class!
   - practice with other music from that Corey list?
 
+<!-- 
 # Week 3 (1/27)
 
 ## Tuesday
