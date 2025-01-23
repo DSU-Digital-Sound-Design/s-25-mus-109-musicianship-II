@@ -42,7 +42,6 @@ author: ""
   - Practice singing vowel sounds as a class!
   - practice with other music from that Corey list?
 
-<!-- 
 # Week 3 (1/27)
 
 ## Tuesday
@@ -52,6 +51,7 @@ author: ""
 
 - Chapter 7 - [Analysis of sound](../lectures/week-3/7-corey/)
 
+<!-- 
 ## Thursday
 
 - name that tune - 10 minutes
