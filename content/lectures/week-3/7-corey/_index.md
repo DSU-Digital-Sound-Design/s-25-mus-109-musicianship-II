@@ -1,5 +1,5 @@
 +++
-title = "Analysis of sound"
+title = "Analysis of Sound"
 outputs = ["Reveal"]
 [reveal_hugo]
 theme = "moon"
@@ -11,12 +11,12 @@ separator = "##"
 
 ---
 
-## Sound Quality and Music Production: A Broader Perspective
+## Sound Quality and Music Production
 
-- Distinctive attributes of recorded sound
-- Differences between live and recorded performances
-- Role of recording engineers and producers
-- Importance of studying a variety of recordings
+- Key Elements:
+  - Timbral Characteristics
+  - Spatial Dimensions
+  - Dynamic Properties
 
 {{% note %}}
 
@@ -29,10 +29,16 @@ separator = "##"
 
 ---
 
-## Further info about recordings
+## Research Tools for Recording Analysis
 
 - [AllMusic | Record Reviews, Streaming Songs, Genres & Bands](https://www.allmusic.com/)
+  - Comprehensive reviews
+  - Detailed credits
+  - Production information
 - [Discogs - Music Database and Marketplace](https://www.discogs.com/)
+  - Technical personnel credits
+  - Release information
+  - Production history
 
 {{% note %}}
 
@@ -46,11 +52,14 @@ Knowing who helped create the recording can aid in the analysis of it. Look at s
 
 ## Analysis of Sound from Electroacoustic Sources
 
-- Analyzing sonic signatures
-- Impact of sound quality on musical meaning
-- Deconstruction of a stereo image
-- Deepening critical listening skills
-  -  [European Broadcasting Union Technical Document 3286](https://tech.ebu.ch/docs/tech/tech3286.pdf) titled “Assessment Methods for the Subjective Evaluation of the Quality of Sound Programme Material— Music”:
+- Analyze Sonic Signatures of artist, producer & engineer styles
+- Sound Quality Impact
+- Master Mix Elements
+  - Learn stereo imaging basics
+  - Study reverb, panning & EQ
+  - Develop equipment recognition
+
+
 
 {{% note %}}
 
@@ -63,12 +72,23 @@ Knowing who helped create the recording can aid in the analysis of it. Look at s
 
 ---
 
-## Analysis of Sound: Overall Bandwidth
+> [European Broadcasting Union Technical Document 3286](https://tech.ebu.ch/docs/tech/tech3286.pdf) titled “Assessment Methods for the Subjective Evaluation of the Quality of Sound Programme Material—Music”
 
-- Definition and importance of overall bandwidth
-- Impact of medium and technology on bandwidth
-- Effects of bandwidth limitations
-- Consideration of high frequency overtones
+---
+
+## Understanding Bandwidth
+
+- Audio Frequency Range:
+  - Full Spectrum: 20 Hz - 20 kHz
+  - Musical Content:
+    - Fundamentals (up to 4 kHz)
+    - Overtones (up to 20 kHz)
+- Bandwidth Factors:
+  - Recording medium
+  - System components
+  - Digital compression
+  - Filtering effects
+
 
 {{% note %}}
 
@@ -81,12 +101,21 @@ Knowing who helped create the recording can aid in the analysis of it. Look at s
 
 ---
 
-## Analysis of Sound: Spectral Balance
+## Spectral Balance
 
-- Understanding spectral balance
-- Methods for measuring spectral balance
-- Subjective analysis of spectral balance
-- Factors influencing spectral balance
+- Energy Distribution Across Frequencies
+  - Balance between frequency bands
+  - Identify resonances/antiresonances
+  - Critical for pleasing sound
+- Analysis Methods
+  - FFT power spectrum visualization
+  - Subjective critical listening
+  - Musical context evaluation
+- Key Influencing Factors
+  - EQ decisions
+  - Mic technique
+  - Instrument physics
+  - Room acoustics
 
 {{% note %}}
 
@@ -105,14 +134,41 @@ Knowing who helped create the recording can aid in the analysis of it. Look at s
 - Can we identify resonances by their approximate frequency in Hertz?
 - Are there specific musical notes that are more prominent than others?
 
+{{% note %}}
+* **Frequency Band Balance**
+  - Helps identify if specific ranges are overpowering or too weak in the mix
+  - Low-end (20-250 Hz) can cause boominess if excessive
+  - High frequencies (6-20 kHz) contribute to clarity and air - deficiency makes mix sound dull
+
+* **Resonance Identification**
+  - Resonances are unnatural frequency peaks that need to be controlled
+  - Common problem areas include 200 Hz (mud in vocals) and 2-3 kHz (harshness)
+  - Precise frequency identification allows for targeted EQ notching
+  - Can often be heard as a "ringing" or sustained tone in the mix
+
+* **Musical Note Prominence**
+  - Relates to both tonal balance and technical mixing issues
+  - Example: Low E bass note at 41.2 Hz overwhelming the mix
+  - Helps identify both musical arrangement issues and technical frequency problems
+  - Understanding musical notes' frequency relationships aids in more musical EQ decisions
+{{%/ note %}}
+
 ---
 
-## Analysis of Sound: Auditory Image
+## The Auditory Image & Stereo Field
 
-- Concept of the auditory image
-- Creation of stereo images
-- Conventions and techniques in music production
-- Analyzing and understanding stereo image
+- Creating Spatial Perception:
+  - Mental representation from audio cues
+  - Phantom image creation
+  - Interchannel time/amplitude control
+- Production Conventions:
+  - Center: vocals, bass, kick
+  - Sides: instruments for width
+  - Depth through processing
+- Analysis Elements:
+  - Image width & stability
+  - Source placement
+  - Spatial distribution
 
 {{% note %}}
 
@@ -133,14 +189,57 @@ Knowing who helped create the recording can aid in the analysis of it. Look at s
 - How easily can the locations of sound sources be pinpointed within a stereo image?
 - Does the sound image appear to have the correct and appropriate spatial distribution of sound sources?
 
+{{% note %}}
+
+* **Width Assessment (How wide or monophonic is the image?)**
+  - Helps determine if the mix is using the full stereo spectrum effectively
+  - Guides decisions about panning, stereo widening, and mono compatibility
+  - Critical for ensuring the mix translates well across different playback systems
+  - Too narrow can sound boring; too wide can sound unnatural
+
+* **Sound Source Location and Width**
+  - Determines how much space each instrument or sound occupies
+  - Helps prevent overcrowding in specific areas of the stereo field
+  - Guides decisions about how wide stereo elements like keyboards or backing vocals should be
+  - Important for creating depth and dimension in the mix
+
+* **Location Stability and Definition**
+  - Addresses whether elements are firmly placed or moving around unnaturally
+  - Helps identify phase issues that might cause unstable imaging
+  - Guides decisions about modulation effects (chorus, flangers) that might destabilize positioning
+  - Critical for maintaining a professional, polished sound
+
+* **Location Precision (Pinpointing)**
+  - Relates to how clearly defined each element's position is
+  - Helps identify masking issues where sounds blur together
+  - Important for clarity and separation in dense mixes
+  - Guides decisions about EQ and spatial processing
+
+* **Spatial Distribution Appropriateness**
+  - Ensures the mix matches genre expectations and artistic intent
+  - Guides decisions about front-to-back depth using reverb and delay
+  - Helps create a natural, believable sound stage
+  - Important for maintaining musical context and authenticity
+{{%/ note %}}
+
 ---
 
-## Analysis of Sound: Spatial Impression, Reverberation, and Time-Based Effects
+## Creating Spatial Impression
 
-- Importance of spatial impression
-- Analyzing reverberation characteristics
-- Depth perspective and time-based effects
-- Differences between real and artificial reverberation
+- Understanding Space in Audio:
+  - Emotional & Scene Setting
+    - Reverberation impact
+    - Echo characteristics
+    - Intimate to expansive range
+- Analysis Components:
+  - Room characteristics
+  - Depth perception
+  - Direct vs. reflected sound
+
+
+> Key Focus:
+Natural vs. Artificial Space
+Foreground/Background Balance
 
 {{% note %}}
 
@@ -164,7 +263,42 @@ Knowing who helped create the recording can aid in the analysis of it. Look at s
 - Depth perspective: Are sounds placed up front clearly distinguished from those in the background?
 
 {{% note %}}
-The spatial impression of a recording is critical for conveying emotion and drama in music. Reverberation and echo help set the scene in which a musical performance or theatrical action takes place. Listeners can be transported mentally to the space in which music exists through the strong influence of early reflections and reverberation that envelops music in a sound recording.
+
+* **Room Size Assessment**
+  - Helps determine the appropriate reverb settings to create a convincing space
+  - Guides decisions about pre-delay and reverb time
+  - Critical for maintaining consistent spatial impression across the mix
+  - Different genres often have expected room size characteristics (intimate for folk, large for orchestral)
+
+* **Multiple Reverb Analysis**
+  - Helps identify when different spaces are needed for different elements
+  - Guides decisions about using multiple reverb plugins or sends
+  - Important for creating depth and separation between instruments
+  - Common practice to use different reverbs for drums, vocals, and instruments
+
+* **Real vs. Artificial Reverb Detection**
+  - Helps in matching additional reverb to existing room sound in recordings
+  - Guides decisions about whether to preserve natural room sound or replace it
+  - Important for maintaining authenticity in acoustic recordings
+  - Influences choices between convolution and algorithmic reverbs
+
+* **Reverberation Time Considerations**
+  - Determines how long the reverb tail should last
+  - Guides tempo-synchronized reverb decisions
+  - Critical for maintaining clarity vs. creating atmosphere
+  - Helps prevent mud buildup from too-long decay times
+
+* **Echo and Early Reflection Analysis**
+  - Identifies potential problems with flutter echoes or unwanted reflections
+  - Guides decisions about early reflection patterns in artificial reverb
+  - Important for creating realistic space simulation
+  - Helps in controlling definition vs. diffusion
+
+* **Depth Perspective Management**
+  - Crucial for creating front-to-back dimensionality in the mix
+  - Guides decisions about reverb send levels and EQ
+  - Important for maintaining clarity of foreground elements
+  - Helps create hierarchical importance in the mix through spatial placement
 
 Show some examples of different spaces in Reaper using \* [OpenAIR – Open Air Library](https://www.openairlib.net/)
 {{%/ note %}}
@@ -190,12 +324,20 @@ Classical music recordings can give listeners the opportunity to familiarize the
 
 ---
 
-## Analysis of Sound: Dynamic Range and Changes in Level
+##  Understanding Dynamic Range
 
-- Significance of dynamic range
-- Assessing microdynamics
-- Influence of dynamic range on perceived loudness
-- Impact of dynamic level changes on musical expression
+- Dynamic Range Elements:
+  - Amplitude spectrum (soft to loud)
+  - Microdynamics - subtle variations
+  - Genre-specific expectations
+- Technical Analysis:
+  - Level meter monitoring
+  - Compression effects
+  - LUFS measurement
+  - Peak vs. perceived loudness
+- Production Impact:
+  - Manual gain control
+  - Automation techniques
 
 {{% note %}}
 
@@ -215,13 +357,20 @@ Classical music recordings can give listeners the opportunity to familiarize the
 
 ---
 
-## Analysis of Sound: Noise and Distortion
-
-- Types and sources of noise
-- Avoiding unintentional noise
-- Recognizing and mitigating clipping
-- Artistic versus unintentional distortion
-
+## Managing Noise & Distortion
+  
+- Sources of Audio Degradation:
+  - Electrical interference, Physical disturbances, Digital sync issues, Signal overload/clipping
+- Artistic Considerations:
+  - Intentional vs. unwanted noise
+  - Creative distortion effects
+  - Stylistic choices
+- Quality Control:
+  - Level management
+  - Noise reduction
+  - Distortion prevention
+  - Artistic integrity
+  
 {{% note %}}
 
 - Noise in recordings can stem from a variety of sources, including electrical interference, physical disturbances, external sounds, and issues with digital synchronization or recording media, often detracting from the audio quality if not managed properly.
@@ -239,12 +388,17 @@ Classical music recordings can give listeners the opportunity to familiarize the
 
 ---
 
-## Analysis of Sound: Balance of the Components within a Mix
+## Mix Balance Analysis
 
-- Importance of balance in a mix
-- Analyzing amplitude levels and instrument balance
-- Subfeatures of a sound image
-- Role of trained listening in identifying audio details
+- Balance Elements:
+  - Level relationships shape impact
+  - Style-specific requirements
+  - Individual component clarity
+- Analysis Skills:
+  - Overall mix assessment
+  - Temporal/spatial features
+  - Artifact detection
+  - Quality control
 
 {{% note %}}
 
