@@ -51,11 +51,10 @@ author: ""
 
 - Chapter 7 - [Analysis of sound](../lectures/week-3/7-corey/)
 
-<!-- 
 ## Thursday
 
 - name that tune - 10 minutes
-- Quiz 2 practice - 10 minutes
+- Quiz 2 (next Tuesday) practice - 10 minutes
   - **1 octave, 1 band, - 12 dB, pink noise, sound file, freq 500 to 2000 Hz**
   - Same parameters as last week, but a different sound file: [Longview](../lectures/week-3/7-corey/04%20Longview.m4a)
   - Use Matching practice
@@ -67,6 +66,7 @@ author: ""
 
 
 
+<!-- 
 
 # Week 4 (2/3)
 
