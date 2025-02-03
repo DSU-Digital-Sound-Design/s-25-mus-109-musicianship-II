@@ -66,7 +66,6 @@ author: ""
 
 
 
-<!-- 
 
 # Week 4 (2/3)
 
@@ -83,6 +82,7 @@ author: ""
 > 
 > More instructions on journals/presentations - [instructions](../assignments/journals/)
 
+<!-- 
 ## Thursday
 
 - _Name that tune_ - 10 minutes

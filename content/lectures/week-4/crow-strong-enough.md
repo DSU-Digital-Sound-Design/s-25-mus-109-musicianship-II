@@ -8,9 +8,19 @@ title: "Sheryl Crow - Strong Enough Analysis"
 
 "Strong Enough," the third track from Sheryl Crow's album "Tuesday Night Music Club," stands out due to its well-balanced instrumental parts that complement each other, requiring numerous auditions to fully appreciate and identify all the sounds. These elements, along with the strategic panning of instruments, contribute to a musically and timbrally rich track.
 
+**Starting Questions**
+
+> 1. What do we think the artist or producer was trying to communicate with these mixing and recording choices?
+> 2. How do elements of this mix relate to other rock tracks of the same era?
+> 3. Corey notes that this recording has become a "classic in terms of sound quality". What specifically contributes to this perception? What does "classic" mean here?
+
 #### Detailed Sonic Analysis
 
-**Introduction**: The piece opens with an ambient synthesizer pad, followed by two acoustic guitars panned left and right, creating an auditory image that is less crisp than typical acoustic guitar recordings. This observation is supported by a spectrogram analysis showing limited high frequency content. For comparison, listen to other acoustic guitar recordings like [this one](https://cambridge-mt.com/rs2/lmp/acoustic-guitar-01/).
+**Introduction**: The piece opens with an ambient synthesizer pad, followed by two acoustic guitars panned left and right, creating an auditory image that is less crisp than typical acoustic guitar recordings. For comparison, listen to other acoustic guitar recordings like [this one](https://cambridge-mt.com/rs2/lmp/acoustic-guitar-01/).
+
+> Why were the high frequencies of the acoustic guitars rolled off and what effect does this have on the track's overall feel? Is this a stylistic choice or a technical decision?
+
+> The guitar strings may be old and a guitar pickup could be mixed in. How do the acoustic guitar and pickup signals blend together in the mix? What are the timbral characteristics of this combined sound, and can listeners distinguish the different elements?
 
 **Vocals**: Crow's lead vocals, characterized by a dry and intense sound, offer a spatial impression with little reverb and a bright timbre. This sound contrasts with other vocal performances that use more reverb, such as: 
 
@@ -32,10 +42,7 @@ title: "Sheryl Crow - Strong Enough Analysis"
 
 #### Reflections and Questions
 
-- The track's coherency, despite the variety of instruments and complex layering, prompts reflections on how different elements are blended and balanced to maintain clarity.
-- The thoughtful arrangement allows each instrument to contribute individually while ensuring collective harmony.
-
-In summary, "Strong Enough" is a meticulously crafted piece, blending a diverse range of sounds that complement each other, resulting in a cohesive and intriguing sonic experience. The track's complexity, highlighted by specific instrumental characteristics and strategic mixing decisions, underscores the importance of careful listening and analysis to fully grasp its depth.
+>  What specific mixing decisions contribute to the "well-balanced" nature of the track? How do the individual elements sit within the mix and relate to each other? What can we observe about the frequency and dynamic relationships of the mix components?
 
 <!-- - Well balanced instrumental parts that complement each other
   - What exactly does this mean?
