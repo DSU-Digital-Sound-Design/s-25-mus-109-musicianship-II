@@ -82,14 +82,15 @@ author: ""
 > 
 > More instructions on journals/presentations - [instructions](../assignments/journals/)
 
-<!-- 
 ## Thursday
 
+- Two volunteers for next week's journal presentations?
 - _Name that tune_ - 10 minutes
 - Finish _Strong Enough_ analysis - 20 minutes
 - Quiz 3 practice
   - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 500 to 4000 Hz**
 
+<!-- 
 # Week 5 (2/10)
 
 ## Tuesday
