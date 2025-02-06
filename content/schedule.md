@@ -88,6 +88,8 @@ author: ""
 - _Name that tune_ - 10 minutes
 - Finish _Strong Enough_ analysis - 20 minutes
 - Quiz 3 practice
+  - Matching Memory
+  - Adding - 12 dB and a higher frequency range
   - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 500 to 4000 Hz**
 
 <!-- 
