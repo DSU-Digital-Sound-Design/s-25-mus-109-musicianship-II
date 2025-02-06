@@ -92,7 +92,6 @@ author: ""
   - Adding - 12 dB and a higher frequency range
   - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 500 to 4000 Hz**
 
-<!-- 
 # Week 5 (2/10)
 
 ## Tuesday
@@ -100,9 +99,10 @@ author: ""
 > Quiz 3 - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 500 to 4000 Hz**
 
 - First student journal presentations and discussion
-  - Karl 
-  - Owen 
+  - Reiter 
+  - Jordan  
 
+<!-- 
 ## Thursday
 
 - Who wants to present next week?
