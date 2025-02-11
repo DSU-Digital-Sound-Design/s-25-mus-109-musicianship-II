@@ -99,8 +99,10 @@ author: ""
 > Quiz 3 - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 500 to 4000 Hz**
 
 - First student journal presentations and discussion
-  - Reiter 
+  - Reiter (out sick - substitute?)
   - Jordan  
+- [Questions to Guide Listening](../lectures/week-5/guided-listening/)
+  - Pick a song and analyze it using the questions in the guided listening document
 
 <!-- 
 ## Thursday
