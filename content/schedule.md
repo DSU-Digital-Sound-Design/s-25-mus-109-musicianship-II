@@ -101,18 +101,19 @@ author: ""
 - First student journal presentations and discussion
   - Reiter (out sick - substitute?)
   - Jordan  
-- [Questions to Guide Listening](../lectures/week-5/guided-listening/)
-  - Pick a song and analyze it using the questions in the guided listening document
 
-<!-- 
 ## Thursday
 
 - Who wants to present next week?
 - Name that Tune!
+- [Questions to Guide Listening](../lectures/week-5/guided-listening/)
+  - Pick a song and analyze it using the questions in the guided listening document
 - [Peter Gabriel - In your eyes](../lectures/week-5/gabriel-in-your-eyes/) from Corey
 -  Quiz 4 Practice: **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 250 to 4000 Hz** 
    - Use the above parameters to practice with the song "In Your Eyes" by Peter Gabriel
+   - Or use another song of your choice! 
 
+<!-- 
 # Week 6 (2/17)
 
 ## Tuesday
