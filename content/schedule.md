@@ -113,7 +113,6 @@ author: ""
    - Use the above parameters to practice with the song "In Your Eyes" by Peter Gabriel
    - Or use another song of your choice! 
 
-<!-- 
 # Week 6 (2/17)
 
 ## Tuesday
@@ -121,8 +120,9 @@ author: ""
 > Quiz 4
 
 - Student journal presentations and discussion
-  - Ivan, Michael 
+  - Cameron, Emmett 
 
+<!-- 
 > Quiz 4: **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 250 to 4000 Hz**
 
 ## Thursday
