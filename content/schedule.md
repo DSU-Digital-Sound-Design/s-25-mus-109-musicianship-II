@@ -124,7 +124,6 @@ author: ""
 
 > Quiz 4: **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 250 to 4000 Hz**
 
-<!-- 
 ## Thursday
 
 - name that tune - 10 min
@@ -140,6 +139,7 @@ author: ""
   - [my example](../lectures/week-6/moylan-6/InYourEyesAnalysis.drawio.png)
   - Follow along with me to make another graph for a different section of _In Your Eyes_
 
+<!-- 
 # Week 7 (2/24)
 
 ## Tuesday
