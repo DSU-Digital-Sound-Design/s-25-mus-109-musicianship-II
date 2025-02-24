@@ -139,7 +139,6 @@ author: ""
   - [my example](../lectures/week-6/moylan-6/InYourEyesAnalysis.drawio.png)
   - Follow along with me to make another graph for a different section of _In Your Eyes_
 
-<!-- 
 # Week 7 (2/24)
 
 ## Tuesday
@@ -148,10 +147,9 @@ author: ""
   - **1 octave, 1 band, +12 dB/- 12 dB, sound file, freq 250 to 8000 Hz**
 - Reminder: 
   - [EBU Tech 3286-1997 Subjective evaluation of quality - Music programme - tech3286.pdf](https://tech.ebu.ch/docs/tech/tech3286.pdf)
-- Student presentations
-  - Levi
-  - Mason
+- Student presentations - who was it? 
 
+<!-- 
 
 ## Thursday
 
