@@ -147,17 +147,17 @@ author: ""
   - **1 octave, 1 band, +12 dB/- 12 dB, sound file, freq 250 to 8000 Hz**
 - Reminder: 
   - [EBU Tech 3286-1997 Subjective evaluation of quality - Music programme - tech3286.pdf](https://tech.ebu.ch/docs/tech/tech3286.pdf)
-- Student presentations - who was it? 
+- Student presentations 
+  - Alex and Reiter (sort of)
 
-<!-- 
 
 ## Thursday
 
 - name that tune - 10 min
-- [Moylan: 7 Recording Analysis](../lectures/week-7/7-moylan-recording-analysis/)
-  - Timbre and Pitch in the Recording Domain
+- [Timbre and Spectral Balance](../lectures/week-7/timbre/)
 - Quiz 6 practice - - **1 octave, 1 band, +12 dB/- 12 dB, sound file, freq 250 to 16000 Hz**
 
+<!-- 
 # Week 8 (3/3)
 
 ## Tuesday
