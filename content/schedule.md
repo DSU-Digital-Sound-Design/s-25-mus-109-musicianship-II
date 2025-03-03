@@ -157,17 +157,17 @@ author: ""
 - [Timbre and Spectral Balance](../lectures/week-7/timbre/)
 - Quiz 6 practice - - **1 octave, 1 band, +12 dB/- 12 dB, sound file, freq 250 to 16000 Hz**
 
-<!-- 
 # Week 8 (3/3)
 
 ## Tuesday
 
 - Presentations 
-  - David 
-  - Karl 
+  - Reiter
+  - Zakry 
 
 > Quiz 6 -  **1 octave, 1 band, +12 dB/- 12 dB, sound file, freq 250 to 16000 Hz**
 
+<!-- 
 ## Thursday
 
 - name that tune - 10 min
