@@ -167,16 +167,14 @@ author: ""
 
 > Quiz 6 -  **1 octave, 1 band, +12 dB/- 12 dB, sound file, freq 250 to 16000 Hz**
 
-<!-- 
 ## Thursday
 
 - name that tune - 10 min
 - Volunteers to present next week?
 - Let's pause the quizzes for a bit and focus on the next journal
-- [Moylan: 7 Recording Analysis](../lectures/week-7/7-moylan-recording-analysis/)
-  - Timbre and Pitch in the Recording Domain
-  - Make a pitch area analysis graph for the next journal
+- [The Illusion of Space as an Element of Recording](../lectures/week-8/space/)
 
+<!-- 
 # Week 9 (3/10)
 
 - Spring Break - No Classes
@@ -196,7 +194,7 @@ author: ""
 ## Tuesday
 
 - Quiz 7 Reverb - Decay time and Pre-delay practice 
-- [The Illusion of Space as an Element of Recording](../lectures/week-8/space/)
+
   - For the next analysis, focus on the spatial and stereo impression.
 - Quiz 7 Reverb - Decay time and Pre-delay
 
