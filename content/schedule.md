@@ -170,8 +170,8 @@ author: ""
 ## Thursday
 
 - name that tune - 10 min
-- Volunteers to present next week?
-- Let's pause the quizzes for a bit and focus on the next journal
+- No quiz or journal next tuesday
+  - We'll cover more listening to space and creating diagrams
 - [The Illusion of Space as an Element of Recording](../lectures/week-8/space/)
 
 <!-- 
@@ -183,7 +183,8 @@ author: ""
 
 ## Tuesday
 
-- Student journal presentations 
+- More listening to space and creating diagrams
+- Listening together with headphones and comparing notes
 
 ## Thursday
 
