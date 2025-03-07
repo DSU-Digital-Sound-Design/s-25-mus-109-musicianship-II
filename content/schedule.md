@@ -186,6 +186,48 @@ author: ""
 - More listening to space and creating diagrams
 - Listening together with headphones and comparing notes
 
+### Examples
+
+Here are some **more modern examples** that illustrate various aspects of **spatial illusions in recording** that your students might connect with:
+
+### **1. Shifting Width & Dynamic Spatial Movement**
+- **Bon Iver – “715 - CR∑∑KS” (2016)**  
+  - Uses **formant-shifted** vocals processed with spatial modulation.
+  - Feels intimate but dynamically shifts in width, creating an immersive, shifting stereo image.
+
+- **Frank Ocean – “Nikes” (2016)**  
+  - Multiple vocal layers with **different spatial placements**—some dry and close, others heavily reverbed and distant.
+  - Gives a **floating, surreal** quality to the track.
+
+### **2. Point Sources & Minimalist Spatial Design**
+- **Billie Eilish – “bury a friend” (2019)**  
+  - Extremely **tight, dry vocals** in mono feel like Billie is whispering in your ear.
+  - Sudden panning shifts and stark contrast between dry and reverbed elements create tension.
+
+- **Kanye West – “Black Skinhead” (2013)**  
+  - Percussion elements feel **wide and aggressive**, but the **rap vocal remains centered and narrow**.
+  - The song plays with **expanding and collapsing stereo width** to build intensity.
+
+### **3. Spread Image & Expansive Soundstage**
+- **James Blake – “Limit to Your Love” (2010)**  
+  - The **piano and vocal** are super **narrow and intimate**, then the **sub-bass drops in a cavernous stereo reverb**.
+  - This contrast between **tight and expansive** space enhances the emotional impact.
+
+- **Tame Impala – “Let It Happen” (2015)**  
+  - Psychedelic stereo effects make elements **swirl and shift** around the listener.
+  - The use of **phasing and stereo delay** creates an illusion of motion within the mix.
+
+### **4. Surround & 3D-Like Sound Design in Stereo**
+- **Björk – “Hidden Place” (2001)**  
+  - The vocal sits **dead center**, while layers of orchestration and electronic textures create a **surrounding sound world**.
+  - Spatial reverb and panning create a **3D effect, even in stereo**.
+
+- **Travis Scott – “SICKO MODE” (2018)**  
+  - **Sudden beat switches** manipulate spatial properties, making different sections feel like they exist in different rooms.
+  - Heavy use of **stereo imaging on synths and ad-libs** to create depth.
+
+These examples highlight **different approaches to spatial illusions**, showing how contemporary artists use space creatively to enhance their music’s impact.
+
 ## Thursday
 
 - No Class 3/20 for MoxSonic Conference Festival Travel
