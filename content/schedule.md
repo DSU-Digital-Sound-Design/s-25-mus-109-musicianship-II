@@ -186,27 +186,23 @@ author: ""
   - Decay time and Pre-delay practice
   - Quiz 7 practice - Reverb
   - Decay time & Pre-delay
+- Who wants to present next week? 
 - More listening to space and creating diagrams
   - [Listening Examples](../lectures/week-10/spatial-examples/)
-- Listening together with headphones and comparing notes
-
-
-
-
+  
 ## Thursday
 
 - No Class 3/20 for MoxSonic Conference Festival Travel
 
-<!-- 
 # Week 11 (3/24)
 
 ## Tuesday
 
 - Quiz 7 Reverb - Decay time and Pre-delay practice 
+- Holistic Environment presentations
+  - Students? 
 
-  - For the next analysis, focus on the spatial and stereo impression.
-- Quiz 7 Reverb - Decay time and Pre-delay
-
+<!-- 
 > Quiz 8
 
 ## Thursday
@@ -216,7 +212,6 @@ author: ""
 - Student journal presentations
   - Ivan and Michael 
 
-> No quiz on Tuesday. 
 
 # Week 12 (3/31)
 
