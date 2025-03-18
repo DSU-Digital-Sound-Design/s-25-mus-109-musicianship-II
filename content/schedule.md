@@ -200,7 +200,7 @@ author: ""
 
 - Quiz 7 Reverb - Decay time and Pre-delay practice 
 - Holistic Environment presentations
-  - Students? 
+  - Alex, Aiden 
 
 <!-- 
 > Quiz 8
