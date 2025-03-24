@@ -201,24 +201,24 @@ author: ""
 - Quiz 7 Reverb - Decay time and Pre-delay practice 
 - Holistic Environment presentations
   - Alex, Aiden 
-
-<!-- 
-> Quiz 8
+- Who wants to present journals next week? 
+  - ___, ___
+- No quiz next Tuesday
 
 ## Thursday
 
-- Volunteers for next week's journal presentations?
-  - Going back to Tuesday
-- Student journal presentations
-  - Ivan and Michael 
-
+- No class - I'll be out of town
 
 # Week 12 (3/31)
 
 ## Tuesday
 
 - Student journal presentation 8 and discussion
-  - Levi
+  - ___
+- More listening to space and creating diagrams
+  - [Listening Examples](../lectures/week-10/spatial-examples/)
+  
+<!-- 
 
 ## Thursday
 
