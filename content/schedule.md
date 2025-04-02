@@ -216,13 +216,17 @@ author: ""
 - More listening to space and creating diagrams
   - [Listening Examples](../lectures/week-10/spatial-examples/)
   
-<!-- 
 
 ## Thursday
 
+- Journal 9 - no need to turn in journals - but we'll keep doing presentations
 - [The Illusion of Space as an Element of Recording](../lectures/week-9/space-2/)
 - Quiz 8 practice - Reverb 
   - Decay time & Pre-delay time & Mix 
+
+> [Final Paper](../assignments/final-paper/) - DUE Friday May 2
+>
+> [Final Presentations](../assignments/final-presentation/) - April 17,22, 24, 29
 
 # Week 13 (4/7)
 
@@ -231,9 +235,10 @@ author: ""
 - Quiz 8 - Reverb
   - Decay time & Pre-delay time & Mix
 - Student journal presentation 9 and discussion
-  -  David 
-  -  Karl
+  -  ?
+  -  ?
 
+<!-- 
 
 ## Thursday
 
@@ -254,9 +259,7 @@ author: ""
   - Owen
   - Mason 
 
-> [Final Paper](../assignments/final-paper/) - DUE Friday April 27th
->
-> [Final Presentations](../assignments/final-presentation/) - April 20, 25, 27
+
 >
 > Final Exam - Thursday, May 2th, 10:30 am - 12:30 pm
 > Will include WebTET exercises for parametric equalization, dynamic compression, and reverberation.

@@ -24,5 +24,5 @@ title: "Final Presentation Instructions"
 - Edited audio clips to support key points
 - 20-minute presentation, followed by a 10-minute Q&A session
 
-Presentation Dates: Starting on 4/16
+Presentation Dates: Starting on 4/17
 
