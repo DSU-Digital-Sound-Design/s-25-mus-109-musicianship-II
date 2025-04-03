@@ -235,8 +235,8 @@ author: ""
 - Quiz 8 - Reverb
   - Decay time & Pre-delay time & Mix
 - Student journal presentation 9 and discussion
-  -  ?
-  -  ?
+  -  Cameron 
+  -  Alex
 
 <!-- 
 
