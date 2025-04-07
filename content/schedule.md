@@ -226,7 +226,7 @@ author: ""
 
 > [Final Paper](../assignments/final-paper/) - DUE Friday May 2
 >
-> [Final Presentations](../assignments/final-presentation/) - April 17,22, 24, 29
+> [Final Presentations](../assignments/final-presentation/) - April 17, 22, 24, 29
 
 # Week 13 (4/7)
 
@@ -237,6 +237,9 @@ author: ""
 - Student journal presentation 9 and discussion
   -  Cameron 
   -  Alex
+-  Plan final presentation dates starting on April 17
+
+> Note: Journals 8 and 9 are extra credit 
 
 <!-- 
 
@@ -259,16 +262,13 @@ author: ""
   - Owen
   - Mason 
 
-
 >
 > Final Exam - Thursday, May 2th, 10:30 am - 12:30 pm
 > Will include WebTET exercises for parametric equalization, dynamic compression, and reverberation.
 
 ## Thursday
 
-- Review final presentation dates - are these all correct? 
-- Some ear training in the studio with microphone types and positions. 
-  - We'll record dialogue with different mics and positions and then try to identify them in a blind test at the end of class.
+- Start final presentations
 
 # Week 15 (4/21)
 
