@@ -241,8 +241,6 @@ author: ""
 
 > Note: Journals 8 and 9 are extra credit 
 
-
-
 ## Thursday
 
 - Song pop party
@@ -259,8 +257,8 @@ author: ""
 
 - Quiz 9 - Compression
 - Student journal presentation and discussion
-  - Owen
-  - Mason 
+  <!-- - Owen
+  - Mason  -->
 
 >
 > Final Exam - Thursday, May 2th, 10:30 am - 12:30 pm
