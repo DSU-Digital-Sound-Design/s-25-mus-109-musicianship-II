@@ -224,7 +224,7 @@ author: ""
 - Quiz 8 practice - Reverb 
   - Decay time & Pre-delay time & Mix 
 
-> [Final Paper](../assignments/final-paper/) - DUE Friday May 2
+> [Final Paper](../assignments/final-paper/) - DUE Friday, May 2
 >
 > [Final Presentations](../assignments/final-presentation/) - April 17, 22, 24, 29
 
@@ -241,7 +241,7 @@ author: ""
 
 > Note: Journals 8 and 9 are extra credit 
 
-<!-- 
+
 
 ## Thursday
 
@@ -269,18 +269,21 @@ author: ""
 ## Thursday
 
 - Start final presentations
+  - Emmett 
+  - Aiden 
 
 # Week 15 (4/21)
 
 ## Tuesday
 
 - Student journal presentation
-  - Karl  
+  - Zakry 
+  - Cameron  
 
 ## Thursday
 
 - Final Journal Presentations
-  - Ivan 
+  - Reiter 
   - David
 
 # Week 16 (4/28)
@@ -288,9 +291,10 @@ author: ""
 ## Tuesday
 
 - Final Journal Presentations
-  - Levi
-  - Mason
+  - Jordan 
+  - Alex
 
+<!-- 
 ## Thursday
 
 - Final Journal Presentations
