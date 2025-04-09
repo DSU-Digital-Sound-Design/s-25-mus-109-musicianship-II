@@ -245,8 +245,6 @@ author: ""
 
 - Song pop party
 - [Loudness, the Confluence of Domains and Deep Listening](../lectures/week-12/loudness/)
-- Review the rest of the semester
-  - schedule presentations
 - Quiz 9 practice - Compression
   - Snare drum
     - 3 questions for each: attack, release, ratio
@@ -257,8 +255,6 @@ author: ""
 
 - Quiz 9 - Compression
 - Student journal presentation and discussion
-  <!-- - Owen
-  - Mason  -->
 
 >
 > Final Exam - Thursday, May 2th, 10:30 am - 12:30 pm
