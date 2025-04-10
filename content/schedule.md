@@ -254,7 +254,8 @@ author: ""
 ## Tuesday
 
 - Quiz 9 - Compression
-- Student journal presentation and discussion
+- [Loudness, the Confluence of Domains and Deep Listening](../lectures/week-12/loudness/)
+
 
 >
 > Final Exam - Thursday, May 2th, 10:30 am - 12:30 pm
