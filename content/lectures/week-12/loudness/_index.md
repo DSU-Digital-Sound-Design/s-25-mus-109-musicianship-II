@@ -48,13 +48,13 @@ separator = "##"
 
 - **Loudness:** How intense a sound *feels* subjectively.
 - **Prominence:** What grabs your **attention** in the mix.
-- **Key Idea:** The most prominent sound isn't always the physically loudest
+- **Key Idea:** The most prominent sound isn't always the most intense (SPL)
     - Example: A quiet but unexpected shaker entry might be more *prominent* than a constant loud pad sound.
 - Attention directs perception
 
 {{% note %}}
 
-- Our attention plays a huge role in listening: focusing intensely on a specific sound can actually make it seem louder than it physically is relative to other sounds. This highlights the critical difference between *prominence* (what stands out psychologically) and *loudness* (the perceived intensity).
+- Our attention plays a huge role in listening: focusing intensely on a specific sound can actually make it seem more intense than it physically is relative to other sounds. This highlights the critical difference between *prominence* (what stands out psychologically) and *loudness* (the perceived intensity).
 - What makes a sound prominent? It could be its loudness, but it could also be factors like:
     - **Novelty:** A new sound entering the texture.
     - **Timbre:** A unique or contrasting sound color.
